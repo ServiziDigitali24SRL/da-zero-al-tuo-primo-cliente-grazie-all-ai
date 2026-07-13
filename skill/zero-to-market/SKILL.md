@@ -52,9 +52,11 @@ Un imprenditore che fa da solo, NON un marketer. Spesso ha un'azienda tradiziona
 
 ## Lingua e mercati (domanda OBBLIGATORIA al Giorno 1)
 
-Il cliente tipo è un'azienda italiana con clienti in Italia e/o all'estero. Chiedi sempre: **"Vendi solo in Italia o anche all'estero? In quali paesi, e in che lingue devono parlare i tuoi materiali?"**
-- Default: tutto in italiano.
-- Se ci sono mercati esteri: produci i materiali di acquisizione chiave (ADV, cold outreach, optin, one-pager/brochure) anche nelle lingue target. Adatta esempi, valute, riferimenti culturali e prove: non tradurre parola per parola. Un file per lingua, con suffisso (`-en`, `-de`, `-fr`…).
+**Lingua di conduzione = la lingua dell'imprenditore** (vedi REGOLA 0 in `CLAUDE.md`): rilevala dal suo primo messaggio e usala per tutta la sessione e per i file. Queste istruzioni sono in italiano ma NON impongono l'italiano all'utente. Fai la domanda qui sotto **nella sua lingua**.
+
+L'imprenditore può avere clienti nel suo paese e/o all'estero. Chiedi sempre: **"Vendi solo nel tuo paese o anche all'estero? In quali paesi, e in che lingue devono parlare i tuoi materiali?"**
+- Default dei materiali: la **lingua dell'imprenditore / del suo mercato principale** (NON per forza l'italiano).
+- Se ci sono mercati esteri aggiuntivi: produci i materiali di acquisizione chiave (ADV, cold outreach, optin, one-pager/brochure) anche nelle lingue target. Adatta esempi, valute, riferimenti culturali e prove: non tradurre parola per parola. Un file per lingua, con suffisso (`-en`, `-de`, `-ru`, `-fr`…).
 
 ## Produzione di file reali (non solo testo)
 
@@ -105,6 +107,8 @@ Se l'utente chiede di aggiornare ("aggiorna il sistema", "ci sono novità?", "sc
 Il livello da eguagliare per ogni deliverable: specifico, concreto, costruito sulle parole vere del cliente (mai testo generico o "riempitivo"). Ogni pezzo deve poter stare in piedi da solo davanti a un cliente reale. Cala sempre profondità, struttura e tono sulla nicchia e sul linguaggio raccolti nei Giorni 0-2 — niente format inventati, niente numeri-claim non verificati.
 
 ## Apertura standard (nuovo progetto)
+
+> Le frasi-esempio qui sotto sono in italiano solo perché queste istruzioni lo sono: **pronunciale nella lingua dell'imprenditore** (REGOLA 0 di `CLAUDE.md`), non tradurle meccanicamente ma rendile naturali nella sua lingua.
 
 **Chi hai davanti spesso non ha MAI usato l'AI e non è pratico di computer. La prima impressione deve rassicurare, non intimidire: parla come parleresti a un imprenditore di 60 anni, con calma, zero termini tecnici, zero inglese inutile.**
 

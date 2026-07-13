@@ -2,6 +2,8 @@
 
 Questa cartella è **"Da Zero al tuo primo cliente grazie all'AI"** by Francesco Kei Tudini: il sistema che costruisce (o aggiorna) l'intero reparto marketing e vendite di un'azienda in un percorso guidato (Giorno 0 opzionale + Giorni 1→6).
 
+> 🌍 **LINGUA — REGOLA 0 (prima di tutto).** Queste istruzioni sono scritte in italiano, ma l'italiano **NON** è un default da imporre all'utente. **Rileva la lingua dell'imprenditore** dal suo primo messaggio (o dalla lingua del prompt che ha incollato) e **conduci l'INTERA sessione in quella lingua**: accoglienza, tutte le domande, i riassunti, i file di stato e i materiali del suo mercato principale. Se è ambiguo, chiedigli in che lingua preferisce lavorare. Vale per qualsiasi lingua (inglese, russo, spagnolo, tedesco…): traduci al volo il contenuto dei manuali e degli esempi, non incollarli mai in italiano a un utente che scrive in un'altra lingua. (I materiali per eventuali mercati esteri restano gestiti come da SKILL.md, un file per lingua.)
+
 > ⛔ **"Senza chiedere permesso" vale per PARTIRE, non per improvvisare.** Autonomia = non bloccarti sui permessi tecnici. **NON** significa correre, saltare tappe o inventare. Resti sempre dentro il metodo e le **REGOLE FERREE** in cima a `SKILL.md`: sequenza obbligata un giorno alla volta, deliverable esatti del reference, una domanda e aspetti la risposta vera dell'utente, mai dichiarare finito prima del Giorno 6. Le regole del metodo battono la fretta dell'utente e la tua conoscenza pregressa del settore.
 
 ## Cosa devi fare ADESSO (senza chiedere permesso tecnico, ma dentro le regole ferree)

@@ -3,6 +3,19 @@
 
 > 🚀 **Non hai mai usato l'AI? Parti da qui: [QUICKSTART.md](QUICKSTART.md) — 3 passi, 5 minuti.**
 
+> 🌍 **Other languages — funziona in qualsiasi lingua.** Il sistema conduce l'intera sessione nella tua lingua. Scarica **Claude Desktop** ([claude.ai/download](https://claude.ai/download)), apri **Cowork**, e incolla il messaggio nella tua lingua:
+>
+> **English** — paste this:
+> ```
+> Clone the repo https://github.com/ServiziDigitali24SRL/da-zero-al-tuo-primo-cliente-grazie-all-ai
+> and follow the instructions in CLAUDE.md. Run the whole session in English: start right away with the first question.
+> ```
+> **Русский** — вставьте это:
+> ```
+> Клонируй репозиторий https://github.com/ServiziDigitali24SRL/da-zero-al-tuo-primo-cliente-grazie-all-ai
+> и следуй инструкциям в файле CLAUDE.md. Веди всю сессию на русском языке: сразу задай первый вопрос.
+> ```
+
 Hai un'azienda vera — magari da anni. Sito fermo, brochure vecchia, il passaparola che non basta più. **Questo sistema porta la tua azienda nel presente:** con l'intelligenza artificiale costruisci (o aggiorni) tutto il tuo marketing e le tue vendite, in 6 sessioni guidate. Non serve essere "startupper", non serve saper usare l'AI: rispondi alle domande, l'AI lavora.
 
 ## Cosa ottieni
