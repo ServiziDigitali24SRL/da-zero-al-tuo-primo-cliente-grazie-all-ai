@@ -2,6 +2,9 @@
 
 Qui trovi, in ordine dal più recente, cosa è stato aggiunto o migliorato in "Da Zero al tuo primo cliente grazie all'AI". Scritto in parole semplici: nessun tecnicismo.
 
+## v4.4 — Cancello obbligatorio tra i giorni (basta "tutto in poche ore")
+Prima, chi diceva "fai tutto tu" poteva ritrovarsi tutti e 6 i giorni fatti in un colpo, di corsa: l'aiutante si rispondeva le domande da solo e non si fermava mai. Ora c'è un **cancello alla fine di ogni giornata**: l'aiutante consegna il lavoro del giorno, **si ferma e ti chiede** se vuoi proseguire — e passa al giorno dopo **solo quando tu dici "vai"**. Un incontro alla volta, così ogni pezzo esce fatto bene. Anche in modalità veloce le domande restano una alla volta (con le risposte già pronte da confermare con un tocco), mai inventate al posto tuo.
+
 > Come aggiornare: apri la tua cartella in Cowork o Claude Code e scrivi **"aggiorna il sistema"** — Claude scarica le novità e te le riassume. Se usi la chat, riscarica il file `zero-to-market.skill` dalla repo.
 
 ---
