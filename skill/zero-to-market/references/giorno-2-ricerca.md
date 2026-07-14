@@ -36,7 +36,7 @@ Compila con le risposte (o con le ipotesi del Giorno 1 marcate "DA VALIDARE"):
 2. **Arsenale di prove**, una per ogni obiezione: statistiche da fonti autorevoli · risultati clienti/casi studio ("XX persone l'hanno usato", "il mio cliente Y ha ottenuto Z") · "riprova rubata" (associazione a brand/principi noti: "come fa Apple quando…") · prove visive (screenshot risultati, messaggi, grafici, foto). Se l'utente non ha numeri: screenshot di richieste ricevute, soldi investiti in formazione/ADV, creatività.
 
 ## Chiusura Giorno 2
-Salva i 3 file. Aggiorna lo stato con: ipotesi validate / da validare. Anticipa il Giorno 3: "Domani blindiamo l'offerta: quella ad alto costo e quella d'ingresso che ti ripaga la pubblicità."
+Salva i 4 file (`02-sondaggio.md`, `02-segmenti-bucket.md`, `02-matrice-messaggio.md`, `02-storia-prove.md`). Aggiorna lo stato con: ipotesi validate / da validare. Anticipa il Giorno 3: "Domani blindiamo l'offerta: quella ad alto costo e quella d'ingresso che ti ripaga la pubblicità."
 
 
 ---

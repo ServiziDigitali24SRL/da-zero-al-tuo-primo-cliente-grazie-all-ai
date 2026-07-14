@@ -2,6 +2,9 @@
 
 Qui trovi, in ordine dal più recente, cosa è stato aggiunto o migliorato in "Da Zero al tuo primo cliente grazie all'AI". Scritto in parole semplici: nessun tecnicismo.
 
+## v4.6 — Definizione di FATTO: non finisce finché non ci sono TUTTI i documenti
+Aggiunto il "manifest": l'elenco preciso di **tutti** i documenti che il kit deve contenere. Ora l'aiutante, prima di dire "fatto", **controlla la lista uno per uno**: se manca anche un solo documento, torna indietro e lo crea — non può dichiarare finito con dei buchi. (Fermarsi a fine giornata e riprendere dopo resta normale: quella è una pausa, non la fine.) Così sei sicuro di ricevere l'intero pacchetto, sempre.
+
 ## v4.5 — Metodo ASK di Ryan Levesque (chiedi al mercato, non indovinare)
 Ora la Ricerca non è più "un sondaggio generico": adotta il **Metodo ASK**. In parole semplici, prima di scrivere pubblicità e pagine **chiediamo direttamente ai tuoi potenziali clienti qual è il loro problema più grande**, con parole loro, e usiamo quelle parole in tutti i materiali. Cosa aggiunge, concretamente:
 - **Giorno 2:** la *Deep Dive Survey* (la domanda d'oro "qual è la tua sfida più grande?") e i *segmenti* (raggruppiamo i clienti per tipo di problema).

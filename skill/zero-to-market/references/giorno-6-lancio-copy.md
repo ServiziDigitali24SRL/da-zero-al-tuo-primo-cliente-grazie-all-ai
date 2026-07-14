@@ -49,8 +49,9 @@ Chiudono il ciclo ASK: dopo il lancio, il mercato continua a dirti come migliora
 Per entrambe: testo pronto + 2 email/1 messaggio di invito + strumento (Google Forms/Tally) + a chi mandarle e quando.
 
 ## Chiusura Giorno 6 — CONSEGNA FINALE
-1. Genera `output/README.md`: indice di TUTTI i file con istruzioni d'uso, mappa funnel, checklist.
-2. Riepilogo all'utente: cosa ha in mano, primi 3 passi da fare domattina.
+1. **CONTROLLO MANIFEST (obbligatorio prima di dichiarare finito):** scorri il MANIFEST in `SKILL.md` (sezione "DEFINIZIONE DI FATTO") e verifica che **ogni** file previsto esista davvero in `output/` (Giorni 0/1→6). Per ogni file mancante, **torna al giorno che lo produce e generalo ORA**: non puoi consegnare con buchi (regola ferrea 4).
+2. Genera `output/README.md`: indice di TUTTI i file con istruzioni d'uso, mappa funnel, checklist.
+3. Riepilogo all'utente: cosa ha in mano, primi 3 passi da fare domattina.
 
 
 ---
@@ -61,4 +62,5 @@ Per entrambe: testo pronto + 2 email/1 messaggio di invito + strumento (Google F
 - [ ] Brochure/one-pager/kit fiera (+ PDF se possibile)
 - [ ] Sales page + piano di lancio (con rimandi ai manuali operativi M01-M18) + disclaimer
 - [ ] **Survey ASK di ottimizzazione:** recupero (`06-survey-recupero.md`) + pivot (`06-survey-pivot.md`), con inviti e strumento
+- [ ] **Controllo manifest superato:** ogni file dei Giorni 0/1→6 esiste in `output/` (nessun buco)
 - [ ] `output/README.md` finale generato (indice + funnel + checklist) · `CLAUDE.md` aggiornato

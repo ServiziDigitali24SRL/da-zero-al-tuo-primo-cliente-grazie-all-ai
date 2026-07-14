@@ -20,7 +20,8 @@ Queste regole battono qualsiasi scorciatoia, fretta o tua conoscenza pregressa d
 
 3. **STOP-AND-WAIT — una domanda, poi fermati.** Fai **una domanda alla volta** e **aspetta la risposta reale dell'utente** prima di proseguire. **Mai rispondere al posto suo**, mai inventare le sue risposte, mai incatenare più giorni in un unico turno. Se l'utente dice "rispondi tu / inventa" NON diventa un lasciapassare per correre: per ogni domanda proponi **la tua ipotesi pronta** e chiedigli il "ti ritrovi? sì/cambia" — resta una domanda alla volta, aspetti il suo cenno, e **ti fermi comunque al cancello di fine giornata** (regola 6). L'obiettivo non è finire in fretta: è fargli attraversare ogni passaggio.
 
-4. **CONTEGGIO E CHIUSURA — il kit finisce al Giorno 6, non al 5.** Il Giorno 6 (Lancio & Copy) è **ancora produzione di materiali** (ADV, cold, brochure, sales page, piano). **Non dichiarare mai "finito / kit consegnato / la repo si ferma qui" prima di aver completato il Giorno 6.** La **FASE OPERATIVA** (i manuali di esecuzione) viene DOPO il Giorno 6 ed è esecuzione, non produzione: non confonderla con la fine del percorso.
+4. **CONTEGGIO E CHIUSURA — il kit finisce al Giorno 6, non al 5, e SOLO quando TUTTI i file esistono.** Il Giorno 6 (Lancio & Copy) è **ancora produzione di materiali** (ADV, cold, brochure, sales page, piano). **Non dichiarare mai "finito / kit consegnato / la repo si ferma qui" prima di aver completato il Giorno 6.** In più vale la **DEFINIZIONE DI FATTO** (vedi sotto): il kit è consegnato **solo quando ogni file del MANIFEST esiste in `output/`**. Finché manca anche un solo documento previsto, **NON sei finito**: non puoi fermarti né dichiarare concluso — generalo. La **FASE OPERATIVA** (i manuali di esecuzione) viene DOPO il Giorno 6 ed è esecuzione, non produzione: non confonderla con la fine del percorso.
+   - ⚠️ Distinzione: **fermarsi al cancello di fine giornata** (regola 6, pausa concordata con "prossimo passo" salvato) è legittimo. **Fermarsi/dichiarare finito con documenti del manifest mancanti** è VIETATO. La pausa ha un seguito; il "finito" no.
 
 5. **TURBO CON FRENI.** "Fai tutto tu / vai veloce" significa **domande più rapide e ipotesi pronte da confermare con un tap**, NON "salto le domande e mi rispondo da solo". Turbo **NON** autorizza a: saltare la sequenza, inventare format, auto-rispondere l'intera intervista, incatenare giorni, o dichiarare finito prima del Giorno 6. Anche in turbo resti **una domanda alla volta** e **a fine di ogni giornata ti fermi al cancello** (regola 6) prima di passare alla successiva. Se dopo "fai tutto tu" ti accorgi di aver prodotto un intero giorno senza un solo cenno dell'utente, **hai sbagliato**: quello non è turbo, è correre.
 
@@ -83,6 +84,22 @@ Per ogni giorno: **leggi il reference corrispondente PRIMA di iniziare** quel gi
 | 4 | Funnel & Lead Magnet: report, optin 9 punti, tutte le email, **+ quiz-funnel ASK** | `references/giorno-4-funnel-lead-magnet.md` + `references/metodo-ask.md` | `output/04-lead-magnet.md`, `output/04-optin-page.md`, `output/04-email-sequences.md`, `output/04-mappa-funnel.md`, `output/04-quiz-funnel.md`, `output/04-quiz-risultati-bucket.md`, `output/04-quiz-email-bucket.md` |
 | 5 | Webinar & Presentazione: 9 punti + 12 punti, slide, script, VSL | `references/giorno-5-webinar-presentazione.md` + i 2 framework | `output/05-slide-deck.md` (+ .pptx/Canva se possibile), `output/05-script-webinar.md`, `output/05-vsl.md`, `output/05-candidatura.md`, `output/05-script-vendita-12-punti.md` |
 | 6 | Lancio & Copy: ADV, cold outreach, brochure/fiere, sales page, piano lancio, **+ survey ASK (recupero/pivot)** | `references/giorno-6-lancio-copy.md` + `references/metodo-ask.md` | `output/06-adv.md`, `output/06-cold-outreach.md`, `output/06-brochure.md` (+ PDF se possibile), `output/06-sales-page.md`, `output/06-piano-lancio.md`, `output/06-disclaimer.md`, `output/06-survey-recupero.md`, `output/06-survey-pivot.md` |
+
+## ✅ DEFINIZIONE DI FATTO — il MANIFEST (finché manca un file, NON hai finito)
+
+Il kit è **consegnato** solo quando **tutti** questi file esistono in `output/`. Prima della consegna finale (Giorno 6) fai il **controllo manifest**: scorri la lista, e per ogni file mancante torna al giorno che lo produce e generalo. **Non puoi dichiarare finito con anche un solo documento mancante** (regola ferrea 4).
+
+- **Giorno 0** (SOLO se ha azienda/materiali): `00-audit.md`
+- **Giorno 1:** `01-fondamenta.md`
+- **Giorno 2:** `02-sondaggio.md` · `02-segmenti-bucket.md` · `02-matrice-messaggio.md` · `02-storia-prove.md`
+- **Giorno 3:** `03-offerta-omt.md` · `03-slo.md` · `03-brand-brief.md`
+- **Giorno 4:** `04-lead-magnet.md` · `04-optin-page.md` · `04-email-sequences.md` · `04-mappa-funnel.md` · `04-quiz-funnel.md` · `04-quiz-risultati-bucket.md` · `04-quiz-email-bucket.md`
+- **Giorno 5:** `05-slide-deck.md` · `05-script-webinar.md` · `05-vsl.md` · `05-candidatura.md` · `05-script-vendita-12-punti.md`
+- **Giorno 6:** `06-adv.md` · `06-cold-outreach.md` · `06-brochure.md` · `06-sales-page.md` · `06-piano-lancio.md` · `06-disclaimer.md` · `06-survey-recupero.md` · `06-survey-pivot.md`
+- **Finale:** `README.md`
+
+Governance sempre presenti (non "deliverable" ma obbligatori): `output/00-stato-progetto.md` e `CLAUDE.md` in radice, aggiornati a fine di ogni giorno.
+Nota: i file multilingua (suffissi `-en`, `-de`…) e i formati finiti (`.pptx`, `.pdf`) sono **in più**, non sostituiscono i `.md` del manifest.
 
 Framework sempre disponibili (leggili quando servono):
 - `references/metodo-ask.md` — **metodo ASK di Ryan Levesque** (le 4 survey: Deep Dive→Giorno 2, quiz-funnel→Giorno 4, recupero/pivot→Giorno 6). Leggilo prima dei blocchi ricerca/quiz/survey.

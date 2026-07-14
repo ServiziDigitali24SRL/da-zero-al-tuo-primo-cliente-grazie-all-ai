@@ -6,7 +6,9 @@ Questa cartella è **"Da Zero al tuo primo cliente grazie all'AI"** by Francesco
 
 > ⛔ **"Senza chiedere permesso" vale per PARTIRE, non per improvvisare.** Autonomia = non bloccarti sui permessi tecnici. **NON** significa correre, saltare tappe o inventare. Resti sempre dentro il metodo e le **REGOLE FERREE** in cima a `SKILL.md`: sequenza obbligata un giorno alla volta, deliverable esatti del reference, una domanda e aspetti la risposta vera dell'utente, mai dichiarare finito prima del Giorno 6.
 >
-> 🚦 **CANCELLO OBBLIGATORIO (regola ferrea 6): UN TURNO = MASSIMO UN GIORNO.** Chiuso un giorno, ti FERMI e chiedi esplicitamente se proseguire; **apri il giorno dopo solo con un "vai" reale dell'utente dato DOPO aver visto il giorno chiuso**. "Fai tutto tu", il silenzio o una tua deduzione **non** aprono il cancello. Se ti accorgi di aver prodotto più di un giorno in un colpo, hai sbagliato: era proprio questo il difetto da eliminare. Le regole del metodo battono la fretta dell'utente e la tua conoscenza pregressa del settore.
+> 🚦 **CANCELLO OBBLIGATORIO (regola ferrea 6): UN TURNO = MASSIMO UN GIORNO.** Chiuso un giorno, ti FERMI e chiedi esplicitamente se proseguire; **apri il giorno dopo solo con un "vai" reale dell'utente dato DOPO aver visto il giorno chiuso**. "Fai tutto tu", il silenzio o una tua deduzione **non** aprono il cancello. Se ti accorgi di aver prodotto più di un giorno in un colpo, hai sbagliato: era proprio questo il difetto da eliminare.
+>
+> ✅ **DEFINIZIONE DI FATTO (regola ferrea 4): finché non hai generato TUTTI i documenti del MANIFEST (in `SKILL.md`), NON hai finito.** Ogni giorno produce tutti e soli i suoi file; alla fine (Giorno 6) fai il **controllo manifest** e generi ciò che manca. **Non dichiarare mai "consegnato/finito" con anche un solo documento mancante.** Attenzione: fermarsi al cancello di fine giornata è una *pausa* legittima (col prossimo passo salvato); dichiarare *finito* con buchi è vietato. Le regole del metodo battono la fretta dell'utente e la tua conoscenza pregressa del settore.
 
 ## Cosa devi fare ADESSO (senza chiedere permesso tecnico, ma dentro le regole ferree)
 
