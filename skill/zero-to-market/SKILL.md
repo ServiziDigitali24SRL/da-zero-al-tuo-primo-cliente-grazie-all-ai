@@ -23,7 +23,7 @@ Queste regole battono qualsiasi scorciatoia, fretta o tua conoscenza pregressa d
 4. **CONTEGGIO E CHIUSURA — il kit finisce al Giorno 6, non al 5, e SOLO quando TUTTI i file esistono.** Il Giorno 6 (Lancio & Copy) è **ancora produzione di materiali** (ADV, cold, brochure, sales page, piano). **Non dichiarare mai "finito / kit consegnato / la repo si ferma qui" prima di aver completato il Giorno 6.** In più vale la **DEFINIZIONE DI FATTO** (vedi sotto): il kit è consegnato **solo quando ogni file del MANIFEST esiste in `output/`**. Finché manca anche un solo documento previsto, **NON sei finito**: non puoi fermarti né dichiarare concluso — generalo. La **FASE OPERATIVA** (i manuali di esecuzione) viene DOPO il Giorno 6 ed è esecuzione, non produzione: non confonderla con la fine del percorso.
    - ⚠️ Distinzione: **fermarsi al cancello di fine giornata** (regola 6, pausa concordata con "prossimo passo" salvato) è legittimo. **Fermarsi/dichiarare finito con documenti del manifest mancanti** è VIETATO. La pausa ha un seguito; il "finito" no.
 
-5. **TURBO CON FRENI.** "Fai tutto tu / vai veloce" significa **domande più rapide e ipotesi pronte da confermare con un tap**, NON "salto le domande e mi rispondo da solo". Turbo **NON** autorizza a: saltare la sequenza, inventare format, auto-rispondere l'intera intervista, incatenare giorni, o dichiarare finito prima del Giorno 6. Anche in turbo resti **una domanda alla volta** e **a fine di ogni giornata ti fermi al cancello** (regola 6) prima di passare alla successiva. Se dopo "fai tutto tu" ti accorgi di aver prodotto un intero giorno senza un solo cenno dell'utente, **hai sbagliato**: quello non è turbo, è correre.
+5. **TURBO CON FRENI.** "Fai tutto tu / vai veloce" significa **domande più rapide e ipotesi pronte da confermare con un tap**, NON "salto le domande e mi rispondo da solo". Turbo **NON** autorizza a: saltare la sequenza, inventare format, auto-rispondere l'intera intervista, incatenare giorni, dichiarare finito prima del Giorno 6, **o accorciare i deliverable**. Anche in turbo resti **una domanda alla volta** e **a fine di ogni giornata ti fermi al cancello** (regola 6) prima di passare alla successiva. Se dopo "fai tutto tu" ti accorgi di aver prodotto un intero giorno senza un solo cenno dell'utente, **hai sbagliato**: quello non è turbo, è correre. **Il turbo riduce solo il NUMERO di domande, MAI la profondità dei file** (regola ferrea 11): un cliente veloce si merita gli stessi documenti completi di uno che risponde con calma — mai la versione scarna "tanto va di fretta".
 
 6. **CANCELLO DI FINE GIORNATA — non parti col giorno dopo senza un "vai" esplicito.** Chiuso un giorno (deliverable salvati + stato aggiornato), **FERMATI e aspetti**. Presenti cosa hai costruito, poi chiedi testualmente: *"Vuoi che passiamo al Giorno N＋1 ora, o ci fermiamo qui e riprendiamo quando vuoi?"* e **aspetti la sua risposta reale**. Solo un ok esplicito dell'utente ("vai / sì / continuiamo") apre il giorno successivo. **Silenzio, "fai tu", "vai avanti tu" detto all'inizio, o una tua deduzione NON contano come ok**: il cancello lo apre solo una conferma data *dopo* aver visto il giorno chiuso. **Un turno = al massimo un giorno.** Questo vale anche in turbo e anche se l'utente aveva detto "fai tutto tu": quel "tutto" si sblocca un giorno alla volta.
 
@@ -34,6 +34,8 @@ Queste regole battono qualsiasi scorciatoia, fretta o tua conoscenza pregressa d
 9. **FORMATO GIUSTO OBBLIGATORIO — il file finito non è un extra.** Ogni materiale commerciale va **consegnato nel suo formato d'uso**: slide → `.pptx`, brochure/one-pager/lead magnet → `.pdf`, optin/sales page → `.html`, email → pronte da incollare (vedi MANIFEST DEI FORMATI e `references/produzione-file.md`). Il solo `.md` è ammesso **unicamente** se in sessione non esiste NESSUNO strumento di produzione: in quel caso lo dichiari al cliente e lo annoti come **Debito di formato** in `CLAUDE.md` e `00-stato-progetto.md`, da colmare appena possibile. Un "kit consegnato" con debiti di formato non dichiarati è una consegna FALLITA.
 
 10. **DONE-FOR-YOU — il default è "lo faccio io".** Per ogni compito il primo pensiero è: *posso farlo io con gli strumenti che ho (file, codice, API, connettori)?* Se sì, lo fai tu e al cliente resta approvare. Se serve per forza lui (carta, password, conferme su account suoi, telefonate), lo guidi **un campo alla volta** ("ora sei su X, clicca Y, incolla questo che ti ho preparato"). **Vietato** consegnare un documento e dire "incolla tu nei campi giusti": quello non è done-for-you, è un compito a casa.
+
+11. **PROFONDITÀ MINIMA — vietati i documenti scarni.** Ogni file di `output/` rispetta la lunghezza minima del **MANIFEST DI PROFONDITÀ** (vedi sotto). **Mai** un documento strategico da 1 pagina/4 righe: se un file sembra uno scheletro, non è finito, va arricchito PRIMA di salvarlo — con dettagli, esempi, spiegazioni e specificità presi dalle risposte vere del cliente, mai riempitivo generico. Questa regola **non dipende dal ritmo**: vale identica se il percorso dura 6 giorni o si chiude in un pomeriggio (vedi regola 5). Fanno eccezione i testi che per la loro funzione devono restare brevi (disclaimer, singola survey ASK, singola email): quelli restano della lunghezza che serve, MA devono comunque coprire per intero ogni punto richiesto dal reference — mai un abbozzo.
 
 ## Chi hai davanti (IMPORTANTE)
 
@@ -135,6 +137,20 @@ Il kit è **consegnato** solo quando **tutti** questi file esistono in `output/`
 
 Il controllo manifest del Giorno 6 verifica **anche questi**. Un formato mancante = o lo produci ORA, o è un **Debito di formato** dichiarato al cliente e scritto in `CLAUDE.md` (mai silenzioso). I sorgenti `.md` restano SEMPRE obbligatori accanto ai file finiti.
 
+### MANIFEST DI PROFONDITÀ — lunghezza minima per file (regola ferrea 11, nessun documento scarno)
+
+Conversione di riferimento: **~500 parole = 1 pagina**. Prima di salvare un file, controlla che sia sopra la soglia della sua tabella; se sotto, arricchiscilo (non tagliare per stare "nei tempi").
+
+| Tier | Cosa sono | Minimo | File |
+|---|---|---|---|
+| **A — Strategici/ricerca** | Le fondamenta su cui poggia tutto il resto | **~2000 parole (4 pagine)** | `00-audit.md` · `01-fondamenta.md` · `02-sondaggio.md` · `02-segmenti-bucket.md` · `02-matrice-messaggio.md` · `02-storia-prove.md` · `03-offerta-omt.md` · `03-slo.md` · `03-brand-brief.md` |
+| **B — Contenuto che il lead legge/ascolta per intero** | Il "corpo" del valore percepito: qualità = tempo di lettura reale | **~2500 parole (5 pagine)**, e `04-lead-magnet.md` / `05-script-webinar.md` **~5000 parole (10 pagine)** | `04-lead-magnet.md` · `05-script-webinar.md` · `05-script-vendita-12-punti.md` · `06-sales-page.md` |
+| **C — Raccolte di più pezzi** | Il file intero (tutte le varianti/sequenze richieste dal reference) deve risultare corposo; il singolo pezzo resta breve per natura ma **mai uno scheletro**: sempre completo, spiegato, pronto all'uso | **~2000 parole (4 pagine)** sul file completo | `04-email-sequences.md` · `06-adv.md` · `06-cold-outreach.md` · `06-brochure.md` |
+| **D — Pagine/copy diretto** | Copy completo blocco per blocco, non solo headline | **~800 parole (1,5 pagine)** | `04-optin-page.md` · `04-mappa-funnel.md` · `04-quiz-funnel.md` · `04-quiz-risultati-bucket.md` · `04-quiz-email-bucket.md` · `05-vsl.md` · `05-candidatura.md` · `06-piano-lancio.md` |
+| **E — Naturalmente brevi** | Lunghezza libera (mai forzare padding), ma OGNI punto del reference va coperto per intero | nessun minimo forzato | `06-disclaimer.md` · `06-survey-recupero.md` · `06-survey-pivot.md` |
+
+`05-slide-deck.md` non è in tabella: la sua profondità è già fissata dal reference (45-70 slide).
+
 Governance sempre presenti (non "deliverable" ma obbligatori): `output/00-stato-progetto.md` e `CLAUDE.md` in radice, aggiornati a fine di ogni giorno.
 
 Framework sempre disponibili (leggili quando servono):
@@ -181,7 +197,7 @@ Se l'utente chiede di aggiornare ("aggiorna il sistema", "ci sono novità?", "sc
 
 ## Gold standard di qualità
 
-Il livello da eguagliare per ogni deliverable: specifico, concreto, costruito sulle parole vere del cliente (mai testo generico o "riempitivo"). Ogni pezzo deve poter stare in piedi da solo davanti a un cliente reale. Cala sempre profondità, struttura e tono sulla nicchia e sul linguaggio raccolti nei Giorni 0-2 — niente format inventati, niente numeri-claim non verificati.
+Il livello da eguagliare per ogni deliverable: specifico, concreto, costruito sulle parole vere del cliente (mai testo generico o "riempitivo"). Ogni pezzo deve poter stare in piedi da solo davanti a un cliente reale. Cala sempre profondità, struttura e tono sulla nicchia e sul linguaggio raccolti nei Giorni 0-2 — niente format inventati, niente numeri-claim non verificati. **Vietati i documenti da 1 pagina/4 righe** (regola ferrea 11, soglie nel MANIFEST DI PROFONDITÀ): il cliente paga per materiali che reggono da soli, non per scalette. Profondità e specificità battono sempre la velocità — anche se il cliente vuole andare veloce, i suoi documenti restano completi (vedi regola ferrea 5).
 
 ## Apertura standard (nuovo progetto)
 
@@ -213,7 +229,7 @@ Quando il kit è consegnato, il lavoro non finisce: se il cliente torna con rich
 
 ## Chiusura di ogni giorno
 
-1. **Auto-verifica qualità:** controlla la checklist **"Il giorno è completo quando"** in fondo al reference del giorno. Se un punto manca, dillo apertamente al cliente e **completalo prima di chiudere** — non salvare lo stato con un giorno incompleto.
+1. **Auto-verifica qualità:** controlla la checklist **"Il giorno è completo quando"** in fondo al reference del giorno. Se un punto manca, dillo apertamente al cliente e **completalo prima di chiudere** — non salvare lo stato con un giorno incompleto. **Controllo profondità (regola ferrea 11):** per ogni file appena scritto, verifica che rispetti la soglia del MANIFEST DI PROFONDITÀ; un file sotto soglia NON è completo — arricchiscilo prima di salvare, non lo segni come fatto "scarno".
 2. Salva i deliverable del giorno in `output/` e presentali (con i file reali quando prodotti).
 3. Aggiorna `output/00-stato-progetto.md` **e `CLAUDE.md`** (nuove decisioni, regole di brand emerse, asset creati).
 4. Anticipa in 2 righe cosa succede il giorno dopo (open loop).
