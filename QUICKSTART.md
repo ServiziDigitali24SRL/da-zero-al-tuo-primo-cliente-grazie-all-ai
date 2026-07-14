@@ -1,6 +1,6 @@
 # 🚀 Come partire in 3 passi (5 minuti)
 
-> 🌍 **Altra lingua?** Il sistema lavora in qualsiasi lingua (inglese, русский, español…): fai gli stessi 3 passi e al Passo 3 incolla il messaggio nella tua lingua — trovi le versioni **English / Русский** pronte in cima al [README](README.md). Claude riconosce la lingua e conduce tutta la sessione in quella.
+> 🌍 **Altra lingua?** Il sistema lavora in qualsiasi lingua (inglese, русский, Deutsch, español…): fai gli stessi 3 passi e al Passo 3 incolla il messaggio nella tua lingua — trovi le versioni **English / Русский / Deutsch** pronte in cima al [README](README.md). Claude riconosce la lingua e conduce tutta la sessione in quella.
 
 Non hai mai usato l'AI? Nessun problema. Segui questi 3 passi e sei operativo.
 

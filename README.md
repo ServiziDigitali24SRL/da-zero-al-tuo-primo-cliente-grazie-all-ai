@@ -15,6 +15,11 @@
 > Клонируй репозиторий https://github.com/ServiziDigitali24SRL/da-zero-al-tuo-primo-cliente-grazie-all-ai
 > и следуй инструкциям в файле CLAUDE.md. Веди всю сессию на русском языке: сразу задай первый вопрос.
 > ```
+> **Deutsch** — füge das hier ein:
+> ```
+> Klone das Repo https://github.com/ServiziDigitali24SRL/da-zero-al-tuo-primo-cliente-grazie-all-ai
+> und folge den Anweisungen in CLAUDE.md. Führe die gesamte Sitzung auf Deutsch: stelle sofort die erste Frage.
+> ```
 
 Hai un'azienda vera — magari da anni. Sito fermo, brochure vecchia, il passaparola che non basta più. **Questo sistema porta la tua azienda nel presente:** con l'intelligenza artificiale costruisci (o aggiorni) tutto il tuo marketing e le tue vendite, in 6 sessioni guidate. Non serve essere "startupper", non serve saper usare l'AI: rispondi alle domande, l'AI lavora.
 
