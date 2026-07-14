@@ -1,0 +1,19 @@
+# File gitignored da copiare in ogni nuovo worktree creato da Claude Code.
+# Sintassi identica a .gitignore. Vengono copiati solo i file che matchano
+# E che sono effettivamente gitignored: i file tracciati non vengono mai duplicati.
+# Senza questo file, ogni worktree parte senza credenziali e i test falliscono
+# per motivi che non c'entrano nulla con il codice.
+
+# Environment
+.env
+.env.local
+.env.development
+.env.test
+
+# Credenziali e certificati
+config/secrets.json
+certs/
+*.pem
+
+# Cache locali costose da rigenerare
+.venv/

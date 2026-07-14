@@ -2,6 +2,9 @@
 
 Qui trovi, in ordine dal più recente, cosa è stato aggiunto o migliorato in "Da Zero al tuo primo cliente grazie all'AI". Scritto in parole semplici: nessun tecnicismo.
 
+## v4.8 — Base tecnica sicura quando l'AI ti costruisce sito, landing o automazioni
+Quando, dopo i materiali, si passa a costruire cose tecniche (una landing, un sito, delle automazioni), ora il sistema installa da solo una **base di sicurezza per Claude Code**: controlli automatici che verificano che il codice funzioni prima di dire "fatto", e blocchi che impediscono comandi pericolosi o la stampa di password/chiavi. Tu non vedi né tocchi niente di tutto questo — serve solo a far lavorare l'AI in modo pulito e sicuro sul tuo progetto. (Sta in `assets/claude-code-starter/`.)
+
 ## v4.7 — Nessuno resta indietro: guida più umana e passaggio alla pratica
 Consolidamento pensato per chi non ha mai usato l'AI. Tre migliorie:
 - **Non ti lasciamo scappare:** messaggi corti, una cosa alla volta, zero paroloni, e se ti senti confuso l'aiutante se ne accorge, si ferma e ti rassicura invece di andare avanti. Tu non tocchi mai codice o cose tecniche: quelle le fa lui.

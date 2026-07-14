@@ -131,6 +131,14 @@ Regole: leggi il manuale PRIMA di guidare il setup; usa i connettori quando esis
 
 Template di output (usali come scheletro, riempili col contesto del cliente): cartella `assets/`.
 
+## File di contesto per progetti di CODICE (dalla Fase Operativa in poi)
+
+Quando — dal Giorno 6/Fase Operativa in avanti — costruisci per il cliente qualcosa di **tecnico che vive in un repo di codice** (una landing, un sito, una web-app, automazioni/script), **PRIMA di scrivere codice** installa in quella cartella-progetto i **file di contesto per Claude Code** dallo starter in **`assets/claude-code-starter/`**:
+- Come: `bash assets/claude-code-starter/install.sh <cartella-del-progetto>` (non sovrascrive: affianca come `.starter`). Poi **compila i placeholder `<…>`** nel `CLAUDE.md` del progetto (soprattutto la sezione *Comandi* e lo *Stack*), e scegli i connettori da `.mcp.json.example`.
+- Cosa ti dà: guardrail veri a livello di runtime (`.claude/settings.json` + hook) — verifica automatica lint/typecheck/test prima di "fatto" (`verify.sh`), blocco di comandi distruttivi e stampa di segreti (`guard-bash.sh`), formattazione (`format.sh`), permessi allow/deny/ask, regole per API/test/sicurezza (`.claude/rules/`), e gli agent `code-reviewer`/`explorer`. Dettagli in `assets/claude-code-starter/README.md`.
+- Perché: è la differenza tra "prosa che Claude può ignorare" (il metodo) e "vincolo che il runtime impone" (gli hook). Sui progetti di codice del cliente vuoi il vincolo.
+- **Il cliente non vede nulla di tutto questo:** è configurazione tecnica che fai tu perché Claude, quando produce codice per lui, lavori bene e in sicurezza. Niente gergo verso di lui (regola boomer).
+
 ## Aggiornare il sistema
 
 Se l'utente chiede di aggiornare ("aggiorna il sistema", "ci sono novità?", "scarica gli aggiornamenti"):

@@ -1,0 +1,4 @@
+# --- Claude Code (aggiungere al .gitignore del progetto) ---
+.claude/settings.local.json
+.claude/agent-memory-local/
+CLAUDE.local.md
