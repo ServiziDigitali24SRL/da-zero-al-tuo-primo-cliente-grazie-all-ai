@@ -1,8 +1,10 @@
 # GIORNO 4 — FUNNEL & LEAD MAGNET
 
-**Obiettivo:** lead magnet scritto, optin page in 9 punti, tutte le sequenze email, mappa del funnel.
+**Obiettivo:** lead magnet scritto, optin page in 9 punti, tutte le sequenze email, mappa del funnel — **più il quiz-funnel del metodo ASK** (secondo binario d'ingresso, in aggiunta all'optin classico).
 
-**Deliverable:** `output/04-lead-magnet.md` · `output/04-optin-page.md` · `output/04-email-sequences.md` · `output/04-mappa-funnel.md`
+**Per il quiz-funnel leggi `references/metodo-ask.md` (sezione 3) PRIMA di scriverlo.** Riusa i **segmenti/bucket** del Giorno 2 (`output/02-segmenti-bucket.md`).
+
+**Deliverable:** `output/04-lead-magnet.md` · `output/04-optin-page.md` · `output/04-email-sequences.md` · `output/04-mappa-funnel.md` · `output/04-quiz-funnel.md` · `output/04-quiz-risultati-bucket.md` · `output/04-quiz-email-bucket.md`
 
 ---
 
@@ -32,10 +34,17 @@ In `output/04-email-sequences.md`, sezioni separate:
 6. **Inviti al webinar** (registrazione, 2 reminder pre-evento, "sta iniziando ora", replay con scadenza)
 Ogni email: oggetto (2 varianti A/B) + preheader + corpo + CTA + PS.
 
-## Blocco D — Mappa del Funnel
-Diagramma testuale + spiegazione di ogni passaggio e metrica da tracciare:
-`Traffico (ADV/Cold) → Optin → Lead Magnet → Email benvenuto → SLO → Sondaggio/Candidatura → Webinar → Offerta → 4DCM → Call 1:1`
-KPI minimi: costo/lead, conversione optin, conversione SLO (target: ripaga l'ADV), show-up webinar, candidature, chiusure call.
+## Blocco D — Quiz-Funnel (metodo ASK — Micro-Commitment Bucket Survey)
+Costruisci il **quiz-funnel** che acquisisce E segmenta il lead, in **aggiunta** all'optin classico (secondo binario, spesso più performante). Segui `references/metodo-ask.md` sezione 3.
+1. `output/04-quiz-funnel.md`: gancio/titolo del quiz (curiosità+beneficio) · **fino a 10 domande** a scelta multipla (micro-impegni, linguaggio dalla Deep Dive) con la logica di punteggio/instradamento · scegli e dichiara **1 framework** tra Score / Type / Killer · punto di cattura email prima del risultato.
+2. `output/04-quiz-risultati-bucket.md`: **una pagina risultato per ogni bucket** del Giorno 2, con la **Promise Prescription X/Y/Z** ("nella tua situazione X, il vero ostacolo è Y, la cosa giusta ora è Z") + CTA verso l'offerta/lead magnet giusto per quel segmento.
+3. `output/04-quiz-email-bucket.md`: **una mini-sequenza email per bucket**, coerente con la sua pagina risultato, che porta a SLO/webinar/call.
+Strumenti (accenna, il montaggio è nella FASE OPERATIVA): ScoreApp/Bucket.io, Typeform, Jotform, Outgrow — o senza budget form condizionale + pagine risultato statiche.
+
+## Blocco E — Mappa del Funnel
+Diagramma testuale + spiegazione di ogni passaggio e metrica da tracciare, con **entrambi i binari d'ingresso** (optin classico E quiz-funnel):
+`Traffico (ADV/Cold) → [Optin → Lead Magnet] oppure [Quiz-Funnel → Pagina risultato bucket] → Email (benvenuto / per bucket) → SLO → Sondaggio/Candidatura → Webinar → Offerta → 4DCM → Call 1:1`
+KPI minimi: costo/lead, conversione optin, **completamento quiz e conversione quiz→lead per bucket**, conversione SLO (target: ripaga l'ADV), show-up webinar, candidature, chiusure call.
 
 ## Chiusura Giorno 4
 Salva i 4 file, aggiorna stato. Anticipa il Giorno 5: "Domani costruiamo il pezzo forte: la presentazione che vende per te."
@@ -48,4 +57,7 @@ Salva i 4 file, aggiorna stato. Anticipa il Giorno 5: "Domani costruiamo il pezz
 - [ ] Optin page 9 punti completa (`output/04-optin-page.md`)
 - [ ] **Tutte** le sequenze email scritte (benvenuto, 4DCM, SOS+VIA, carrello, inviti)
 - [ ] Mappa del funnel con KPI da tracciare (`output/04-mappa-funnel.md`)
+- [ ] **Quiz-funnel ASK** scritto (`output/04-quiz-funnel.md`): gancio + ≤10 domande + framework dichiarato
+- [ ] **Pagine risultato per bucket** (`output/04-quiz-risultati-bucket.md`): una per segmento, con Promise Prescription X/Y/Z
+- [ ] **Email per bucket** (`output/04-quiz-email-bucket.md`): una mini-sequenza per segmento
 - [ ] `CLAUDE.md` e stato aggiornati

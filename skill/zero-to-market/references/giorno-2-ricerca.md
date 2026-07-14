@@ -2,7 +2,9 @@
 
 **Obiettivo:** validare le ipotesi del Giorno 1 e raccogliere il linguaggio reale del mercato. Se il punto "Problemi/Frustrazioni" non viene dalla ricerca, tutto il resto del funnel è costruito sulla sabbia.
 
-**Deliverable:** `output/02-sondaggio.md` · `output/02-matrice-messaggio.md` · `output/02-storia-prove.md`
+**Metodo di riferimento: il METODO ASK di Ryan Levesque — leggi `references/metodo-ask.md` PRIMA di iniziare.** Non indoviniamo il messaggio: lo facciamo scrivere dal mercato con la **Deep Dive Survey** e poi raggruppiamo le risposte in **segmenti (bucket)**.
+
+**Deliverable:** `output/02-sondaggio.md` · `output/02-segmenti-bucket.md` · `output/02-matrice-messaggio.md` · `output/02-storia-prove.md`
 
 ---
 
@@ -12,9 +14,12 @@ Spiega e pianifica con l'utente:
 2. **Ricerca interna:** clienti passati, email ricevute, obiezioni sentite in trattativa, domande frequenti. Fatti raccontare le ultime 5 conversazioni di vendita.
 3. **Ricerca via call:** obiettivo indicativo ~30 conversazioni col target (adatta: per chi parte da zero anche 10 bastano per iniziare). Le call di ricerca possono convergere in call di vendita (script Giorno 5).
 
-## Blocco B — Il Sondaggio
-Genera il sondaggio completo (8-12 domande) in `output/02-sondaggio.md`, con: domande aperte che fanno emergere il linguaggio ("qual è la tua più grande difficoltà con X in questo momento? descrivila come la racconteresti a un amico"), situazione attuale, cosa hanno già provato, cosa desiderano, dati demografici minimi, e una domanda-ponte ("vuoi che ti chiami per aiutarti gratuitamente?" → pipeline call).
-Includi: 3 email di richiesta sondaggio alla lista/contatti + 1 post social equivalente. Istruzioni tecniche: Google Forms o Tally, una domanda per schermata, anonimo opzionale.
+## Blocco B — La Deep Dive Survey (metodo ASK)
+Genera in `output/02-sondaggio.md` la **Deep Dive Survey** completa seguendo `references/metodo-ask.md`, con: la **SMIQ** (domanda aperta cardine "qual è la sfida/frustrazione più grande con X in questo momento? descrivila come la racconteresti a un amico"), la domanda "cosa hai già provato e perché non ha funzionato", la domanda budget/urgenza (separa curiosi da compratori), i dati demografici minimi del settore, e la domanda-ponte ("vuoi che ti aiuti direttamente? lascia email/telefono" → pipeline call).
+Includi: **3 email di invito** al sondaggio alla lista/contatti + **1 post social** equivalente. Se non ha lista: dove pescare risposte (gruppi FB/Reddit di settore, DM, clienti passati). Istruzioni tecniche: Google Forms o Tally, una domanda per schermata, anonimo opzionale.
+
+## Blocco B2 — Segmenti / Bucket (metodo ASK)
+Dalle risposte alla SMIQ (o dalle ipotesi del Giorno 1 marcate "DA VALIDARE") ricava **3-5 segmenti** in `output/02-segmenti-bucket.md`. Scegli UNO dei 4 modi di segmentare (Situazione / Sfida / Desiderio / Percorso). Per ogni bucket: nome col linguaggio del cliente · problema dominante · desiderio · obiezione principale · frase-gancio. Questi bucket alimentano la Matrice del Messaggio (sotto), il quiz-funnel del Giorno 4 e le email per segmento.
 
 ## Blocco C — Matrice del Messaggio
 Compila con le risposte (o con le ipotesi del Giorno 1 marcate "DA VALIDARE"):
@@ -37,8 +42,9 @@ Salva i 3 file. Aggiorna lo stato con: ipotesi validate / da validare. Anticipa 
 ---
 
 ## ✅ Il giorno è completo quando
-- [ ] Sondaggio pronto (`output/02-sondaggio.md`) con domande aperte che fanno emergere il linguaggio
+- [ ] **Deep Dive Survey** pronta (`output/02-sondaggio.md`): SMIQ + cosa-ho-provato + budget + 3 email invito + 1 post
+- [ ] **Segmenti/bucket** definiti (`output/02-segmenti-bucket.md`): 3-5 segmenti col linguaggio del cliente
 - [ ] Matrice del messaggio compilata: griglia Prima/Dopo + obiezioni (meccanismo/interna/esterna)
 - [ ] Le ipotesi del Giorno 1 sono marcate "validate" o "da validare"
 - [ ] Storia del brand + arsenale prove (una per obiezione) in `output/02-storia-prove.md`
-- [ ] `CLAUDE.md` e stato aggiornati con ciò che è emerso
+- [ ] `CLAUDE.md` e stato aggiornati con ciò che è emerso (segmenti inclusi)

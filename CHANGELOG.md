@@ -2,6 +2,13 @@
 
 Qui trovi, in ordine dal più recente, cosa è stato aggiunto o migliorato in "Da Zero al tuo primo cliente grazie all'AI". Scritto in parole semplici: nessun tecnicismo.
 
+## v4.5 — Metodo ASK di Ryan Levesque (chiedi al mercato, non indovinare)
+Ora la Ricerca non è più "un sondaggio generico": adotta il **Metodo ASK**. In parole semplici, prima di scrivere pubblicità e pagine **chiediamo direttamente ai tuoi potenziali clienti qual è il loro problema più grande**, con parole loro, e usiamo quelle parole in tutti i materiali. Cosa aggiunge, concretamente:
+- **Giorno 2:** la *Deep Dive Survey* (la domanda d'oro "qual è la tua sfida più grande?") e i *segmenti* (raggruppiamo i clienti per tipo di problema).
+- **Giorno 4:** un *quiz-funnel* — un quiz pubblico che raccoglie i contatti e li smista nel gruppo giusto, con una pagina di risultato e email su misura per ciascun gruppo. Si aggiunge alla pagina d'iscrizione classica: hai entrambi.
+- **Giorno 6:** due sondaggi che continuano a farti migliorare — uno per capire *perché chi non ha comprato non ha comprato*, uno per chi *ha* comprato.
+Sette nuovi documenti (da 24 a 31 in totale) e ogni giorno ora li elenca nel suo "il giorno è completo quando": se ne manca uno, l'aiutante non chiude il giorno.
+
 ## v4.4 — Cancello obbligatorio tra i giorni (basta "tutto in poche ore")
 Prima, chi diceva "fai tutto tu" poteva ritrovarsi tutti e 6 i giorni fatti in un colpo, di corsa: l'aiutante si rispondeva le domande da solo e non si fermava mai. Ora c'è un **cancello alla fine di ogni giornata**: l'aiutante consegna il lavoro del giorno, **si ferma e ti chiede** se vuoi proseguire — e passa al giorno dopo **solo quando tu dici "vai"**. Un incontro alla volta, così ogni pezzo esce fatto bene. Anche in modalità veloce le domande restano una alla volta (con le risposte già pronte da confermare con un tocco), mai inventate al posto tuo.
 

@@ -78,15 +78,16 @@ Per ogni giorno: **leggi il reference corrispondente PRIMA di iniziare** quel gi
 |---|---|---|---|
 | 0 | Audit dell'esistente (SOLO se il cliente ha già azienda/materiali) | `references/giorno-0-audit.md` | `output/00-audit.md` (cosa tenere / migliorare / rifare) |
 | 1 | Fondamenta: Nicchia → Offerta Alto Costo (OMT) → Messaggio/Meccanismo Unico | `references/giorno-1-fondamenta.md` | `output/01-fondamenta.md` (equazione "Aiuto CHI a COSA con COME") |
-| 2 | Ricerca: sondaggio, matrice del messaggio, storia + prove | `references/giorno-2-ricerca.md` | `output/02-sondaggio.md`, `output/02-matrice-messaggio.md`, `output/02-storia-prove.md` |
+| 2 | Ricerca (**metodo ASK**): Deep Dive Survey, segmenti/bucket, matrice del messaggio, storia + prove | `references/giorno-2-ricerca.md` + `references/metodo-ask.md` | `output/02-sondaggio.md`, `output/02-segmenti-bucket.md`, `output/02-matrice-messaggio.md`, `output/02-storia-prove.md` |
 | 3 | Offerta & Messaggio: OMT finale, SLO, offer stack 12 punti, brand brief | `references/giorno-3-offerta-messaggio.md` | `output/03-offerta-omt.md`, `output/03-slo.md`, `output/03-brand-brief.md` |
-| 4 | Funnel & Lead Magnet: report, optin 9 punti, tutte le email | `references/giorno-4-funnel-lead-magnet.md` | `output/04-lead-magnet.md`, `output/04-optin-page.md`, `output/04-email-sequences.md`, `output/04-mappa-funnel.md` |
+| 4 | Funnel & Lead Magnet: report, optin 9 punti, tutte le email, **+ quiz-funnel ASK** | `references/giorno-4-funnel-lead-magnet.md` + `references/metodo-ask.md` | `output/04-lead-magnet.md`, `output/04-optin-page.md`, `output/04-email-sequences.md`, `output/04-mappa-funnel.md`, `output/04-quiz-funnel.md`, `output/04-quiz-risultati-bucket.md`, `output/04-quiz-email-bucket.md` |
 | 5 | Webinar & Presentazione: 9 punti + 12 punti, slide, script, VSL | `references/giorno-5-webinar-presentazione.md` + i 2 framework | `output/05-slide-deck.md` (+ .pptx/Canva se possibile), `output/05-script-webinar.md`, `output/05-vsl.md`, `output/05-candidatura.md`, `output/05-script-vendita-12-punti.md` |
-| 6 | Lancio & Copy: ADV, cold outreach, brochure/fiere, sales page, piano lancio | `references/giorno-6-lancio-copy.md` | `output/06-adv.md`, `output/06-cold-outreach.md`, `output/06-brochure.md` (+ PDF se possibile), `output/06-sales-page.md`, `output/06-piano-lancio.md`, `output/06-disclaimer.md` |
+| 6 | Lancio & Copy: ADV, cold outreach, brochure/fiere, sales page, piano lancio, **+ survey ASK (recupero/pivot)** | `references/giorno-6-lancio-copy.md` + `references/metodo-ask.md` | `output/06-adv.md`, `output/06-cold-outreach.md`, `output/06-brochure.md` (+ PDF se possibile), `output/06-sales-page.md`, `output/06-piano-lancio.md`, `output/06-disclaimer.md`, `output/06-survey-recupero.md`, `output/06-survey-pivot.md` |
 
-Framework sempre disponibili (leggili al Giorno 5, e quando servono altrove):
-- `references/framework-presentazione-9-punti.md`
-- `references/framework-offerta-12-punti.md`
+Framework sempre disponibili (leggili quando servono):
+- `references/metodo-ask.md` — **metodo ASK di Ryan Levesque** (le 4 survey: Deep Dive→Giorno 2, quiz-funnel→Giorno 4, recupero/pivot→Giorno 6). Leggilo prima dei blocchi ricerca/quiz/survey.
+- `references/framework-presentazione-9-punti.md` (Giorno 5)
+- `references/framework-offerta-12-punti.md` (Giorno 5)
 
 ## FASE OPERATIVA — mettere in pratica (SOLO dopo il Giorno 6)
 
@@ -145,4 +146,4 @@ Quando il kit è consegnato, il lavoro non finisce: se il cliente torna con rich
 
 Genera `output/README.md`: indice di tutti i materiali con istruzioni d'uso di ognuno, mappa del funnel completa, checklist di lancio, riga di attribuzione e contatto di supporto (qualunque settore → Francesco Kei Tudini — SD24). Il funnel di riferimento:
 
-`Traffico (ADV/Cold) → Optin 9 punti → Lead Magnet → Email → SLO → Sondaggio/Candidatura → Webinar (9+12 punti) → Offerta → 4DCM (4-Day Cash Machine) → Call 1:1 (script 12 punti)`
+`Traffico (ADV/Cold) → [Optin 9 punti → Lead Magnet] oppure [Quiz-Funnel ASK → Pagina risultato bucket] → Email (benvenuto / per bucket) → SLO → Sondaggio/Candidatura → Webinar (9+12 punti) → Offerta → 4DCM (4-Day Cash Machine) → Call 1:1 (script 12 punti) → Survey ASK recupero/pivot`

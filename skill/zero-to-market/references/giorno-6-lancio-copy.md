@@ -2,7 +2,7 @@
 
 **Obiettivo:** tutto il materiale di acquisizione e chiusura: ADV, cold outreach, brochure/materiale cartaceo, sales page, disclaimer, piano di lancio.
 
-**Deliverable:** `output/06-adv.md` · `output/06-cold-outreach.md` · `output/06-brochure.md` · `output/06-sales-page.md` · `output/06-piano-lancio.md` · `output/06-disclaimer.md`
+**Deliverable:** `output/06-adv.md` · `output/06-cold-outreach.md` · `output/06-brochure.md` · `output/06-sales-page.md` · `output/06-piano-lancio.md` · `output/06-disclaimer.md` · `output/06-survey-recupero.md` · `output/06-survey-pivot.md`
 
 ---
 
@@ -42,6 +42,12 @@ In `06-sales-page.md`, copy completo: pre-headline+headline → lead (problema/s
 1. **`06-disclaimer.md`:** disclaimer risultati/guadagni, privacy/cookie note, termini essenziali. Avverti che va validato da un legale.
 2. **`06-piano-lancio.md`:** checklist operativa sequenziale, con accanto a ogni voce il manuale della Fase Operativa da usare (`references/manuali/`): domini cold (M01) → caselle (M02) → warmup Instantly, PARTE IL TIMER 2-4 settimane (M03) → nel frattempo: Brevo (M05), inoltri (M06), Supabase lead (M09), dashboard L1 (M10), pubblica optin+lead magnet online (M15), calendario contenuti IG/FB (M08), connettori (M11) → SLO live (link di pagamento Stripe, M16) → sondaggio/candidatura → webinar → ADV budget test — Meta Ads (M13): 20-50€/gg, 3 angoli, kill rule 2× CPL target dopo 3gg / Google Ads (M14) → prepara la lista lead (M12) → cold outreach quando il warmup è maturo (M03-M04-M12) → WhatsApp se serve (M07) → 4DCM dopo il primo webinar → review settimanale KPI sulla dashboard.
 
+## Blocco F — Survey di ottimizzazione (metodo ASK — leggi `references/metodo-ask.md` sez. 4)
+Chiudono il ciclo ASK: dopo il lancio, il mercato continua a dirti come migliorare.
+1. **`06-survey-recupero.md` ("Do You Hate Me" Survey):** parte a chi ha visto l'offerta ma NON ha comprato. Tono onesto e leggero ("posso chiederti in tutta onestà: cosa ti ha frenato?") + 3-5 opzioni (prezzo / non è il momento / non ho capito il valore / dubito funzioni per me / altro) + 1 domanda aperta. Spiega come le risposte diventano nuovi angoli ADV, FAQ e obiezioni da spezzare.
+2. **`06-survey-pivot.md` (Pivot Survey):** parte a chi HA comprato ("cosa stavi cercando di ottenere quando hai deciso? cosa ti ha convinto?"). Spiega come usarla per affinare targeting, messaggio e prossimi lanci.
+Per entrambe: testo pronto + 2 email/1 messaggio di invito + strumento (Google Forms/Tally) + a chi mandarle e quando.
+
 ## Chiusura Giorno 6 — CONSEGNA FINALE
 1. Genera `output/README.md`: indice di TUTTI i file con istruzioni d'uso, mappa funnel, checklist.
 2. Riepilogo all'utente: cosa ha in mano, primi 3 passi da fare domattina.
@@ -54,4 +60,5 @@ In `06-sales-page.md`, copy completo: pre-headline+headline → lead (problema/s
 - [ ] Cold outreach completo (email 4 tocchi + DM + eventuale PEC + script call)
 - [ ] Brochure/one-pager/kit fiera (+ PDF se possibile)
 - [ ] Sales page + piano di lancio (con rimandi ai manuali operativi M01-M18) + disclaimer
+- [ ] **Survey ASK di ottimizzazione:** recupero (`06-survey-recupero.md`) + pivot (`06-survey-pivot.md`), con inviti e strumento
 - [ ] `output/README.md` finale generato (indice + funnel + checklist) · `CLAUDE.md` aggiornato
