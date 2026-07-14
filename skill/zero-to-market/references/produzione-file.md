@@ -4,11 +4,11 @@ Come trasformare i deliverable in file pronti, in base agli strumenti disponibil
 
 ## 1) Rileva gli strumenti disponibili
 
-Controlla cosa hai davvero in QUESTA sessione:
-- **Creazione file** (ambiente con bash/documenti): puoi produrre .pptx, .pdf, .docx, .xlsx — usa le skill di produzione documenti se presenti (pptx, pdf, docx).
-- **Connettore Canva:** puoi creare deck e brochure direttamente nell'account Canva dell'utente.
+Il check andrebbe già fatto a inizio percorso e annotato in `CLAUDE.md` → "Strumenti disponibili" (vedi Apertura standard in SKILL.md). Qui verifica cosa hai davvero in QUESTA sessione e usa lo strumento migliore che c'è:
+- **Skill di produzione documenti** (nomi esatti da invocare se presenti): **`pptx`** (slide/deck PowerPoint, con note relatore) · **`pdf`** (brochure, lead magnet, one-pager) · **`docx`** (script, brand brief) · **`xlsx`** (fogli/calcoli) · **`canvas-design`** (poster/grafica curata in .png/.pdf, quando serve più cura estetica di un pptx base).
+- **Connettore Canva:** deck e brochure direttamente nell'account Canva dell'utente (spesso il risultato più "bello" per un non-designer).
 - **Connettore Adobe:** Express/PDF per grafiche e documenti.
-- **Nessuno strumento:** consegna il .md + istruzioni pratiche (2 righe) su come trasformarlo (es. "incolla in Canva → Presentazione, un blocco per slide").
+- **Nessuno strumento grafico:** consegna il .md + istruzioni pratiche (2 righe) su come trasformarlo (es. "incolla in Canva → Presentazione, un blocco per slide"). E, con gentilezza, suggerisci di collegare Canva per il prossimo file — senza farne un ostacolo tecnico.
 
 Se un connettore utile NON è collegato ma migliorerebbe il risultato (es. Canva per la brochure), dillo all'utente: può collegarlo dalle impostazioni e riprendere.
 

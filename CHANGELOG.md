@@ -2,6 +2,12 @@
 
 Qui trovi, in ordine dal più recente, cosa è stato aggiunto o migliorato in "Da Zero al tuo primo cliente grazie all'AI". Scritto in parole semplici: nessun tecnicismo.
 
+## v4.7 — Nessuno resta indietro: guida più umana e passaggio alla pratica
+Consolidamento pensato per chi non ha mai usato l'AI. Tre migliorie:
+- **Non ti lasciamo scappare:** messaggi corti, una cosa alla volta, zero paroloni, e se ti senti confuso l'aiutante se ne accorge, si ferma e ti rassicura invece di andare avanti. Tu non tocchi mai codice o cose tecniche: quelle le fa lui.
+- **Dopo i materiali, la messa in pratica parte da sola:** finito il pacchetto, l'aiutante **ti propone lui** di mettere tutto in funzione (domini, email, pubblicità), un pezzo alla volta — non devi sapere tu cosa chiedere.
+- **Non perde mai il filo:** prima di passare alla pratica salva un "punto di ripresa" completo, così quando torni riparte esattamente da dove eravate, senza rifarti domande. E controlla da subito se può creare slide e PDF belli, avvisandoti per tempo se conviene collegare Canva.
+
 ## v4.6 — Definizione di FATTO: non finisce finché non ci sono TUTTI i documenti
 Aggiunto il "manifest": l'elenco preciso di **tutti** i documenti che il kit deve contenere. Ora l'aiutante, prima di dire "fatto", **controlla la lista uno per uno**: se manca anche un solo documento, torna indietro e lo crea — non può dichiarare finito con dei buchi. (Fermarsi a fine giornata e riprendere dopo resta normale: quella è una pausa, non la fine.) Così sei sicuro di ricevere l'intero pacchetto, sempre.
 

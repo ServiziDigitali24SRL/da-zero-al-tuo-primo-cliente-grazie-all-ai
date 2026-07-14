@@ -50,8 +50,10 @@ Per entrambe: testo pronto + 2 email/1 messaggio di invito + strumento (Google F
 
 ## Chiusura Giorno 6 — CONSEGNA FINALE
 1. **CONTROLLO MANIFEST (obbligatorio prima di dichiarare finito):** scorri il MANIFEST in `SKILL.md` (sezione "DEFINIZIONE DI FATTO") e verifica che **ogni** file previsto esista davvero in `output/` (Giorni 0/1→6). Per ogni file mancante, **torna al giorno che lo produce e generalo ORA**: non puoi consegnare con buchi (regola ferrea 4).
-2. Genera `output/README.md`: indice di TUTTI i file con istruzioni d'uso, mappa funnel, checklist.
-3. Riepilogo all'utente: cosa ha in mano, primi 3 passi da fare domattina.
+2. **SCRIVI I FILE DI CONTESTO (ponte verso la Fase Operativa):** aggiorna `CLAUDE.md` con Inventario del kit, Stato Fase Operativa (tutti "da fare"), Zone di rischio & approvazioni, e **Punto di ripresa** = "produzione completa → prossimo passo: Fase Operativa, Manuale 01". Aggiorna `output/00-stato-progetto.md` = "kit consegnato". Senza questo, alla ripresa si riparte alla cieca.
+3. Genera `output/README.md`: indice di TUTTI i file con istruzioni d'uso, mappa funnel, checklist.
+4. Riepilogo caldo all'utente: **mostragli cosa ha in mano** (celebra il traguardo, regola boomer 6).
+5. **HANDOFF OBBLIGATORIO E PROATTIVO alla Fase Operativa** (regola in SKILL.md): non fermarti qui, non dichiarare chiuso il rapporto. Proponi TU, in 2 righe calde, di mettere in pratica i materiali partendo dal Manuale 01 (domini) — il boomer non lo chiederà da solo. Se dice "non ora", salva in `CLAUDE.md` che la Fase Operativa è il prossimo passo e riproponila alla ripresa.
 
 
 ---
@@ -63,4 +65,6 @@ Per entrambe: testo pronto + 2 email/1 messaggio di invito + strumento (Google F
 - [ ] Sales page + piano di lancio (con rimandi ai manuali operativi M01-M18) + disclaimer
 - [ ] **Survey ASK di ottimizzazione:** recupero (`06-survey-recupero.md`) + pivot (`06-survey-pivot.md`), con inviti e strumento
 - [ ] **Controllo manifest superato:** ogni file dei Giorni 0/1→6 esiste in `output/` (nessun buco)
-- [ ] `output/README.md` finale generato (indice + funnel + checklist) · `CLAUDE.md` aggiornato
+- [ ] `output/README.md` finale generato (indice + funnel + checklist)
+- [ ] **File di contesto scritti:** `CLAUDE.md` con Inventario kit + Stato Fase Operativa + Punto di ripresa ("produzione completa → Fase Operativa M01") · `00-stato-progetto.md` = "kit consegnato"
+- [ ] **Handoff fatto:** hai proposto tu la Fase Operativa (non aspettato che la chiedesse)

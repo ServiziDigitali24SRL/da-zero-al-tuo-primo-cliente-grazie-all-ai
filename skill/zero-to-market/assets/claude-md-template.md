@@ -25,10 +25,26 @@
 - Colori/logo/font: …
 - Prove regine da citare: …
 
-## Stato e asset
-- Giorno completato: … · Prossimo passo: …
-- Stato dettagliato: `output/00-stato-progetto.md` · Audit: `output/00-audit.md`
-- Deliverable pronti: vedi `output/` (README finale = indice)
+## Strumenti disponibili (rilevati a inizio percorso, aggiorna se cambiano)
+- File finiti: pptx […] · pdf […] · docx […] · xlsx […] · canvas-design […]
+- Connettori: Canva […] · Adobe […] · altri […]
+- Se manca il pezzo per slide/brochure curate: cosa proporre al cliente di collegare: …
+
+## Punto di ripresa (LEGGI PER PRIMO alla ripresa)
+- Dove siamo: … (es. "Giorno 4 completato" / "kit consegnato, produzione completa")
+- **Prossimo passo esatto:** … (es. "Giorno 5" / "Fase Operativa — Manuale 01 domini")
+- Regola: se qui c'è scritto "produzione completa", NON rifare i giorni: vai alla Fase Operativa dal punto segnato.
+
+## Inventario del kit (spunta man mano)
+Giorno 0 [ ] audit · G1 [ ] fondamenta · G2 [ ] sondaggio/segmenti/matrice/storia · G3 [ ] offerta/slo/brand-brief · G4 [ ] lead-magnet/optin/email/mappa/quiz · G5 [ ] slide/script/vsl/candidatura/vendita-12 · G6 [ ] adv/cold/brochure/sales-page/piano/disclaimer/survey · [ ] README finale
+
+## Stato Fase Operativa (dopo il Giorno 6 — tutti "da fare" alla consegna)
+domini(01)[ ] · caselle(02)[ ] · warmup(03)[ ] · cold/nurturing(04)[ ] · Brevo(05)[ ] · inoltri(06)[ ] · WhatsApp(07)[ ] · social IG/FB(08)[ ] · Supabase(09)[ ] · dashboard(10)[ ] · connettori(11)[ ] · liste lead(12)[ ] · Meta Ads(13)[ ] · Google Ads(14)[ ] · landing online(15)[ ] · pagamenti(16)[ ] · webinar/VSL(17)[ ] · avatar(19)[ ] · voce(20)[ ] · slide-video(21)[ ]
+
+## Zone di rischio & approvazioni cliente (chiedi SEMPRE il suo ok prima)
+- Spese: domini (~€), Instantly, Meta/Google Ads, Stripe/pagamenti — mai attivare senza conferma.
+- Account esterni (Canva, Adobe, Meta, email…): mai toccarli senza il suo sì.
+- Credenziali: solo nel suo gestore password, MAI in chiaro nei file.
 
 ## Cosa abbiamo imparato (aggiorna sempre)
 - Funziona: …
@@ -36,11 +52,12 @@
 - Decisioni prese: …
 
 ## Regole operative per Claude
-1. Leggi questo file e lo stato PRIMA di produrre qualsiasi cosa.
+1. Leggi **Punto di ripresa**, questo file e lo stato PRIMA di produrre qualsiasi cosa.
 2. Ogni nuovo materiale deve rispettare equazione + regole di brand qui sopra.
 3. Non rifare domande già risposte: le risposte sono qui e in `output/`.
-4. Dopo i 6 giorni: modalità reparto ricorrente (nuovi materiali, analisi numeri, sessione settimanale).
-5. Chiedi conferma prima di usare connettori/account esterni del cliente.
+4. Chiuso il Giorno 6: **proponi tu la Fase Operativa** (non aspettare che il cliente la chieda), poi modalità reparto ricorrente.
+5. Chiedi conferma prima di usare connettori/account esterni o far spendere soldi al cliente.
+6. Il cliente non è tecnico: niente gergo, un passo alla volta, non farlo scappare.
 
 ---
 *Creato con il metodo «Da Zero al tuo primo cliente grazie all'AI» by Francesco Kei Tudini*
