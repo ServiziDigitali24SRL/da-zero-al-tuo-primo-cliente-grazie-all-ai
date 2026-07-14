@@ -2,6 +2,15 @@
 
 Qui trovi, in ordine dal più recente, cosa è stato aggiunto o migliorato in "Da Zero al tuo primo cliente grazie all'AI". Scritto in parole semplici: nessun tecnicismo.
 
+## v5.0 — Ti accompagno fino al tuo PRIMO EURO incassato
+La versione più importante di sempre: il sistema non si ferma più ai documenti né ai collegamenti tecnici — **il lavoro finisce solo quando incassi il tuo primo pagamento**. Cosa c'è di nuovo:
+- **La strada verso il primo euro:** una guida dedicata con i traguardi uno per uno (primo contatto → prima risposta → prima chiacchierata → primo sì → **primo incasso**) e cosa facciamo insieme a ogni passo. Compreso l'**allenamento alla chiamata di vendita**: l'aiutante fa la parte del cliente difficile e ti prepara, così alla prima chiamata vera arrivi tranquillo.
+- **Quando un contatto ti risponde, non sei solo:** incolli la risposta e l'aiutante ti prepara la risposta giusta nel tuo tono, con l'obiettivo chiaro (fissare la chiacchierata). E un nuovo capitolo ti fa avere un **calendario per le prenotazioni** (il contatto sceglie giorno e ora da solo, con promemoria automatici).
+- **Ogni account aperto per mano:** per ogni servizio (pubblicità Facebook/Google, incassi con Stripe, email, ecc.) ora c'è la procedura completa da zero — cosa cliccare, che dati tenere pronti, quali verifiche aspettarsi e i blocchi tipici dei primi giorni, così non ti fermi mai. Prima di tutto, un capitolo ti sistema **la cassaforte delle password** e la verifica in due passaggi.
+- **I materiali arrivano nel formato giusto, sempre:** presentazioni in PowerPoint, brochure e regali in PDF, pagine web pronte — non "testi da sistemare". Se una volta manca lo strumento per produrre il file bello, l'aiutante te lo dice e lo recupera appena possibile.
+- **Fa quasi tutto lui:** campagne, record tecnici, quiz e sondaggi online, fogli dei numeri — dove prima c'era "incolla tu nei campi", ora c'è "lo preparo/lo faccio io, tu approvi". A te restano solo carta, password e conferme.
+- **La memoria non si perde mai:** salvataggi anche a metà sessione, controllo alla ripresa che tutto ci sia davvero, copia di sicurezza proposta con un click, e aggiornamenti del sistema che non toccano mai i tuoi dati.
+
 ## v4.8 — Base tecnica sicura quando l'AI ti costruisce sito, landing o automazioni
 Quando, dopo i materiali, si passa a costruire cose tecniche (una landing, un sito, delle automazioni), ora il sistema installa da solo una **base di sicurezza per Claude Code**: controlli automatici che verificano che il codice funzioni prima di dire "fatto", e blocchi che impediscono comandi pericolosi o la stampa di password/chiavi. Tu non vedi né tocchi niente di tutto questo — serve solo a far lavorare l'AI in modo pulito e sicuro sul tuo progetto. (Sta in `assets/claude-code-starter/`.)
 

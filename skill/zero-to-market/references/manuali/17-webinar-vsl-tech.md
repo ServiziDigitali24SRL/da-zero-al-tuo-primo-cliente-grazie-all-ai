@@ -10,7 +10,8 @@
 
 ## Passo 1 — Con cosa registrare (usa ciò che hai già)
 - **Zoom (gratis, consigliato per iniziare):** avvia una riunione da solo, **condividi le slide** del Giorno 5, premi Registra. Ottieni video + slide + la tua voce in un colpo solo. Il piano gratuito registra sul computer senza limiti se sei l'unico partecipante.
-- **Loom:** ancora più semplice per VSL brevi — registra schermo + volto in un riquadro, link pronto in automatico. Ottimo per il VSL da sales page.
+  - **Se non hai Zoom, aprilo da zero:** vai su **zoom.us/signup** → inserisci data di nascita ed email aziendale → conferma il codice che arriva via email → scegli il piano **Basic (gratis)**: per registrare da solo basta e avanza. Scarica l'app per computer quando proposta (serve quella, non il browser). Salva la password nel gestore password (manuale 00b). **Limite da sapere:** il piano gratuito taglia le riunioni a **40 minuti quando ci sono più partecipanti** — se registri da solo il limite non c'è; se un giorno farai il webinar LIVE con i partecipanti dentro Zoom, lì servirà il piano Pro (~13-15€/mese alla data di stesura).
+- **Loom:** ancora più semplice per VSL brevi — registra schermo + volto in un riquadro, link pronto in automatico. Ottimo per il VSL da sales page. **Attenzione:** il piano gratuito limita ogni video a **5 minuti**: bene per un VSL corto, inutilizzabile per il webinar. Se il tuo VSL sfora, usa Zoom (gratis, senza limite da soli) o passa a Loom a pagamento.
 - **OBS (gratis, più controllo):** se vuoi qualità superiore e sei disposto a imparare 30 minuti di setup. Non necessario per partire.
 - **Cosa fa Claude:** ti consiglia lo strumento giusto in base a cosa devi fare (webinar lungo = Zoom; VSL corto = Loom) e ti prepara la scaletta di registrazione dallo script.
 
@@ -30,6 +31,14 @@ Hai già lo script parola per parola (`output/05-script-webinar.md` per il webin
 ## Passo 4 — Dove ospitare il video (hosting)
 Il video registrato deve stare da qualche parte online per poterlo mostrare.
 - **YouTube "non in elenco" (gratis, consigliato):** carichi il video, imposti la visibilità su **"Non in elenco"** → è raggiungibile solo con il link, non appare nelle ricerche. Perfetto per webinar replay e VSL. Zero costi, player affidabile.
+- **Se non hai mai usato YouTube, parti da zero così:**
+  - **Cosa fa il cliente:**
+    1. Vai su **youtube.com** → **Accedi** (in alto a destra) con l'account Google aziendale (se non ce l'hai: accounts.google.com → Crea account → "Per gestire la mia attività"; servono email e telefono per la conferma).
+    2. Clicca la tua foto in alto a destra → **"Crea un canale"** → conferma nome e immagine. Il canale è pronto in un minuto.
+    3. **VERIFICA TELEFONICA — falla SUBITO, prima di registrare il webinar:** senza verifica YouTube blocca i caricamenti **sopra i 15 minuti** — e un webinar sfora SEMPRE i 15 minuti. Vai su **youtube.com/verify** → inserisci il numero di cellulare → ricevi il codice via SMS → conferma. Due minuti ora ti evitano di scoprire il blocco a video già caricato a metà.
+    4. **Caricare "Non in elenco":** clicca l'icona della **videocamera con il "+"** (in alto) → **Carica video** → seleziona il file → compila titolo e descrizione (te li dà Claude) → alla schermata "Visibilità" scegli **"Non in elenco"** (NON "Pubblico", NON "Privato": privato non lo vede nessuno nemmeno col link) → **Salva**. Copia il link e conservalo.
+  - **Cosa fa Claude:** ti avvisa PRIMA della registrazione di fare la verifica telefonica, ti prepara titolo e descrizione da incollare, e ti guida un campo alla volta nel caricamento fino al link finale.
+  - **Tempi:** canale + verifica = 10 minuti; l'elaborazione del video dopo il caricamento può richiedere da minuti a un'ora per un webinar lungo.
 - **Vimeo (a pagamento):** se vuoi togliere il logo YouTube e i suggerimenti, o proteggere meglio il video. Non necessario per partire.
 - **Cosa fa Claude:** ti dice quale scegliere e come impostare la visibilità corretta; ti prepara titolo e descrizione del video.
 
@@ -59,6 +68,9 @@ Il video registrato deve stare da qualche parte online per poterlo mostrare.
 - **Luce alle spalle:** finestra dietro = silhouette. Luce sempre davanti.
 - **Slide affollate:** troppe parole = illeggibili da telefono e noiose. Un'idea per slide (Giorno 5).
 - **Finta urgenza nell'evergreen:** i countdown "sempre a zero tra 10 minuti" bruciano la fiducia. Scadenza vera legata all'iscrizione.
+- **Saltare la verifica telefonica di YouTube:** carichi 60 minuti di webinar e YouTube lo rifiuta perché supera i 15 minuti. Verifica il canale PRIMA (Passo 4).
+
+**Fatto? Aggiorna la memoria:** in CLAUDE.md spunta questo manuale in "Stato Fase Operativa", aggiorna "Punto di ripresa" al prossimo passo, e annota gli asset creati (account, domini, URL) in "Asset operativi".
 
 ---
 

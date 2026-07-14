@@ -13,8 +13,12 @@
 - **Audio brevi:** messaggi WhatsApp vocali, intro podcast, risponditori.
 
 ## Passo 1 — Account e scelta voce
-- **Cosa fa il cliente:** registrati su **elevenlabs.io**. Scegli una **voce dalla libreria** (filtra per lingua, genere, tono) oppure crea la **tua voce clonata** (Voice Cloning): carica 1-3 minuti di tuo audio registrato bene (stanza silenziosa, buon microfono — vedi M17). Consenso richiesto: cloni solo la tua voce o di persone consenzienti.
-- **Cosa fa Claude:** ti consiglia voce da libreria (veloce) o clonata (massima fiducia e riconoscibilità del brand).
+- **Cosa fa il cliente:** registrati su **elevenlabs.io** → **Sign up** con l'email aziendale (o account Google), conferma l'email, salva la password nel gestore password (manuale 00b).
+- **Quale piano scegliere:**
+  - **Free:** va bene solo per provare le voci di libreria (pochi minuti al mese). **La clonazione della voce NON c'è** sul gratuito.
+  - **Starter (~5$/mese alla data di stesura, verifica su elevenlabs.io):** è il piano minimo per **clonare la tua voce** (Instant Voice Cloning) e avere abbastanza caratteri per un VSL. Per iniziare basta questo.
+- **Poi scegli la voce:** una **dalla libreria** (filtra per lingua, genere, tono) oppure crea la **tua voce clonata** (Voice Cloning): carichi 1-3 minuti di tuo audio registrato bene (stanza silenziosa, buon microfono — vedi M17). **Verifica vocale:** per la clonazione ElevenLabs può chiederti di **leggere ad alta voce una frase mostrata a schermo**, registrandola al momento — serve a provare che la voce che stai clonando è davvero la TUA. Fallo nella stessa stanza silenziosa: è questione di un minuto. Consenso richiesto: cloni solo la tua voce o di persone consenzienti.
+- **Cosa fa Claude:** ti consiglia voce da libreria (veloce) o clonata (massima fiducia e riconoscibilità del brand), e ti dice PRIMA quale piano serve per quello che vuoi fare, così non scopri il limite a metà lavoro.
 
 ## Passo 2 — Lo script pronto al parlato
 - **Cosa fa Claude:** prende lo script (`output/05-vsl.md` ecc.) e lo prepara per la sintesi: frasi brevi, virgole nei punti di respiro, niente sigle da sillabare, indicazioni di enfasi. Un testo ben punteggiato = voce dal ritmo umano.
@@ -37,6 +41,9 @@
 - **Stabilità sbagliata:** troppo alta = monotona, troppo bassa = incoerente. Trova il punto (Passo 3).
 - **Testo non punteggiato:** senza virgole la voce corre. Fallo sistemare a Claude.
 - **Clonare con audio scadente:** rumore/eco nella base = voce clonata mediocre.
+- **Provare a clonare col piano Free:** la clonazione non c'è sul gratuito — serve almeno Starter (Passo 1). Scoprirlo dopo aver registrato la base è tempo perso.
+
+**Fatto? Aggiorna la memoria:** in CLAUDE.md spunta questo manuale in "Stato Fase Operativa", aggiorna "Punto di ripresa" al prossimo passo, e annota gli asset creati (account, domini, URL) in "Asset operativi".
 
 ---
 

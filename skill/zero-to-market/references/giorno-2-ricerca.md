@@ -16,7 +16,8 @@ Spiega e pianifica con l'utente:
 
 ## Blocco B — La Deep Dive Survey (metodo ASK)
 Genera in `output/02-sondaggio.md` la **Deep Dive Survey** completa seguendo `references/metodo-ask.md`, con: la **SMIQ** (domanda aperta cardine "qual è la sfida/frustrazione più grande con X in questo momento? descrivila come la racconteresti a un amico"), la domanda "cosa hai già provato e perché non ha funzionato", la domanda budget/urgenza (separa curiosi da compratori), i dati demografici minimi del settore, e la domanda-ponte ("vuoi che ti aiuti direttamente? lascia email/telefono" → pipeline call).
-Includi: **3 email di invito** al sondaggio alla lista/contatti + **1 post social** equivalente. Se non ha lista: dove pescare risposte (gruppi FB/Reddit di settore, DM, clienti passati). Istruzioni tecniche: Google Forms o Tally, una domanda per schermata, anonimo opzionale.
+Includi: **3 email di invito** al sondaggio alla lista/contatti + **1 post social** equivalente. Se non ha lista: dove pescare risposte (gruppi FB/Reddit di settore, DM, clienti passati).
+**Il montaggio della survey NON tocca al cliente.** La strada standard: **Cosa fa Claude** — genera la survey come pagina HTML pronta (una domanda per schermata, anonimo opzionale, risposte salvate) seguendo il pattern del Manuale 15 (`references/manuali/15-landing-online.md`) e la pubblica lui, poi consegna il link da girare a lista/gruppi. **Cosa fa il cliente** — conferma il testo e inoltra il link. Alternativa se preferisce uno strumento suo: guidalo su Tally UN campo alla volta ("ora sei su Tally, clicca X, incolla questo"); Google Forms solo se ha già un account Google (apertura account → manuale `00b-prerequisiti-account.md`).
 
 ## Blocco B2 — Segmenti / Bucket (metodo ASK)
 Dalle risposte alla SMIQ (o dalle ipotesi del Giorno 1 marcate "DA VALIDARE") ricava **3-5 segmenti** in `output/02-segmenti-bucket.md`. Scegli UNO dei 4 modi di segmentare (Situazione / Sfida / Desiderio / Percorso). Per ogni bucket: nome col linguaggio del cliente · problema dominante · desiderio · obiezione principale · frase-gancio. Questi bucket alimentano la Matrice del Messaggio (sotto), il quiz-funnel del Giorno 4 e le email per segmento.
@@ -43,6 +44,7 @@ Salva i 4 file (`02-sondaggio.md`, `02-segmenti-bucket.md`, `02-matrice-messaggi
 
 ## ✅ Il giorno è completo quando
 - [ ] **Deep Dive Survey** pronta (`output/02-sondaggio.md`): SMIQ + cosa-ho-provato + budget + 3 email invito + 1 post
+- [ ] **Survey montata da Claude, non dal cliente:** pagina HTML generata e pubblicata (pattern M15) con link consegnato — oppure Tally guidato campo per campo (fallback dichiarato)
 - [ ] **Segmenti/bucket** definiti (`output/02-segmenti-bucket.md`): 3-5 segmenti col linguaggio del cliente
 - [ ] Matrice del messaggio compilata: griglia Prima/Dopo + obiezioni (meccanismo/interna/esterna)
 - [ ] Le ipotesi del Giorno 1 sono marcate "validate" o "da validare"

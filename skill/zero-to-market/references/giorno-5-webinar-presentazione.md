@@ -4,7 +4,7 @@
 
 **PRIMA DI INIZIARE leggi:** `references/framework-presentazione-9-punti.md` e `references/framework-offerta-12-punti.md`.
 
-**Deliverable:** `output/05-slide-deck.md` · `output/05-script-webinar.md` · `output/05-vsl.md` · `output/05-candidatura.md` · `output/05-script-vendita-12-punti.md`
+**Deliverable:** `output/05-slide-deck.md` · `output/05-script-webinar.md` · `output/05-vsl.md` · `output/05-candidatura.md` · `output/05-script-vendita-12-punti.md` · **file finito:** `output/05-slide-deck.pptx` (obbligatorio)
 
 ---
 
@@ -28,7 +28,7 @@ Applica lo stack del Giorno 3 seguendo il framework: bonus (più tempo sui bonus
 
 ## Blocco D — Produzione
 Prima di produrre, leggi `references/produzione-file.md` e verifica gli strumenti disponibili (pptx, pdf, Canva, Adobe). Per REGISTRARE e OSPITARE il webinar/VSL (con cosa, audio, hosting, live vs evergreen) vedi `references/manuali/17-webinar-vsl-tech.md`. Se il cliente non vuole apparire o vuole produrre in serie/multilingua: avatar AI `references/manuali/19-heygen-avatar.md`, voce AI `references/manuali/20-elevenlabs-voce.md`, slide/video animati in codice `references/manuali/21-remotion-slide-video.md`.
-1. **`05-slide-deck.md`:** slide per slide (numero, titolo, contenuto, note visual). Totale indicativo 45-70 slide. POI produci il deck reale: **.pptx con note del relatore** se hai la creazione file, oppure **deck Canva** se il connettore è collegato (chiedi conferma prima). Salva come `output/05-slide-deck.pptx`.
+1. **`05-slide-deck.md`:** slide per slide (numero, titolo, contenuto, note visual). Totale indicativo 45-70 slide. POI produci il deck reale — **in OGNI caso il file finito deve esistere in `output/`**: **.pptx con note del relatore** se hai la creazione file; se usi il connettore **Canva** (chiedi conferma prima), a deck approvato scaricalo comunque (Condividi → Scarica → PowerPoint .pptx) e salvalo come `output/05-slide-deck.pptx` — il link Canva da solo non basta, il file deve stare nel kit. Se nessuno strumento è disponibile: dichiaralo e annota il **Debito di formato** (regola cardine in `references/produzione-file.md`). Passa la checklist qualità (note relatore incluse) prima di consegnare.
 2. **`05-script-webinar.md`:** script parola-per-parola con indicazioni di tonalità (veloce/pausa/silenzio) e minutaggio.
 3. **`05-vsl.md`:** versione compressa 8-15 min per la sales page: hook → problema → storia+meccanismo → prove → offerta stack → prezzo → garanzia/esclusività → urgenza → CTA. Con indicazioni B-roll/visual.
 4. **`05-candidatura.md`:** offerta di candidatura (a cosa si candidano, criteri del candidato ideale) + sondaggio di qualificazione (situazione attuale, numero attuale, obiettivo/numero target, motivazione, serietà, budget) — allineato alle fasi 3-8 dello script call.
@@ -42,7 +42,7 @@ Salva i 5 file, aggiorna stato. Anticipa il Giorno 6: "Domani accendiamo il traf
 
 ## ✅ Il giorno è completo quando
 - [ ] Contenuti 9 punti + offerta 12 punti costruiti sul materiale reale del cliente
-- [ ] Deck slide (`output/05-slide-deck.md`) + file .pptx/Canva se gli strumenti lo permettono (M17 per registrare)
+- [ ] Deck slide (`output/05-slide-deck.md`) + **file finito `output/05-slide-deck.pptx` OBBLIGATORIO, con note relatore** (se Canva: Condividi→Scarica→PPTX; fallback .md solo se strumenti assenti, dichiarato come Debito di formato) — M17 per registrare
 - [ ] Script webinar parola-per-parola + script VSL salvati
 - [ ] Sistema di candidatura + sondaggio di qualificazione pronto
 - [ ] Script vendita 12 fasi personalizzato · `CLAUDE.md` e stato aggiornati

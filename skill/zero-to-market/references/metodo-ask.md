@@ -31,7 +31,7 @@ Struttura (poche domande, non stancare):
 4. **Chi sei** (3-4 dati demografici minimi utili al settore: ruolo, dimensione azienda, zona, ecc.).
 5. **Domanda-ponte** (opzionale): *"Vuoi che ti aiuti direttamente? Lascia email/telefono"* → alimenta le call di ricerca/vendita.
 
-Regole: **una domanda per schermata**, anonimo opzionale, Google Forms o Tally. La domanda 1 è quella d'oro: da lì escono le frasi verbatim per TUTTO il copy.
+Regole: **una domanda per schermata**, anonimo opzionale. **Il montaggio NON tocca al cliente:** Claude genera la survey come pagina HTML pronta (pattern del Manuale 15) e la pubblica lui, consegnando il link; in alternativa guida il cliente su Tally UN campo alla volta (Google Forms solo se ha già un account Google → manuale 00b). La domanda 1 è quella d'oro: da lì escono le frasi verbatim per TUTTO il copy.
 Consegna insieme: **3 email di invito** al sondaggio + **1 post social** equivalente (per la lista/gruppi del cliente). Se non ha lista: dove pescare risposte (gruppi FB/Reddit di settore, DM, clienti passati).
 
 ## 2) SEGMENTI / BUCKET (Giorno 2) — raggruppa le risposte
@@ -59,7 +59,7 @@ Impianto:
 - **Pagine risultato per bucket** (`04-quiz-risultati-bucket.md`): una per segmento, con la **Promise Prescription** via **X/Y/Z**: *"Nella tua situazione (X), il vero ostacolo è (Y); la cosa giusta da fare ora è (Z)"* → CTA verso l'offerta/lead magnet giusto per quel bucket.
 - **Email per bucket** (`04-quiz-email-bucket.md`): una mini-sequenza per segmento, coerente con la sua pagina risultato, che porta all'offerta (SLO/webinar/call).
 
-Strumenti: quiz builder (ScoreApp/Bucket.io, Typeform, Jotform, Outgrow) o, senza budget, form condizionale + pagine risultato statiche. Consegna sempre il sorgente `.md`; il montaggio nello strumento è nella FASE OPERATIVA.
+Montaggio: la strada standard è **Claude che genera e pubblica il quiz come pagina HTML** (domande + logica di punteggio + pagine risultato per bucket) seguendo la sezione Quiz-funnel del Manuale 15 — il cliente non monta nulla; si fa nella FASE OPERATIVA. I quiz builder a pagamento (ScoreApp/Bucket.io, Typeform, Jotform, Outgrow) restano un'alternativa solo se il cliente li preferisce. Consegna sempre anche il sorgente `.md`.
 
 ## 4) SURVEY DI OTTIMIZZAZIONE (Giorno 6)
 

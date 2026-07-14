@@ -15,6 +15,19 @@
 | **Claude non riprende da dove eravamo** | Cartella sbagliata, oppure `CLAUDE.md` non letto | Assicurati di aprire la STESSA cartella delle sessioni precedenti. Di' a Claude: "leggi CLAUDE.md e output/00-stato-progetto.md e riprendi". In chat semplice: ricarica quei due file all'inizio. |
 | **Claude "ha dimenticato" la mia azienda** | Stai in una chat nuova senza contesto | Lavora sempre nella cartella (Cowork/Code) o in un Progetto dedicato; incolla `CLAUDE.md` se serve. |
 | **Ho raggiunto il limite del piano Claude** | Troppi messaggi/troppo lavoro in poco tempo | Aspetta il reset del limite, oppure valuta il piano superiore. Intanto Claude ha già salvato i file in `output/`: nulla è perso, riprendi dopo. |
+| **Ho perso/spostato la cartella del progetto, o cambio computer** | La cartella con `CLAUDE.md` e `output/` non c'è più dov'era | Niente panico: si ricostruisce. 1) Riclona la repo del metodo (stesso messaggio del QUICKSTART). 2) Ripristina dal backup (o dal vecchio computer/cloud) la sezione "IL CLIENTE" del tuo `CLAUDE.md` e l'intera cartella `output/` dentro la nuova cartella. 3) Di' a Claude: "leggi CLAUDE.md e output/00-stato-progetto.md e riprendi". Se il backup non c'è, si riparte dall'ultimo materiale che hai (email, PDF inviati): Claude ricostruisce lo stato con te. Morale: fai una copia di `output/` + `CLAUDE.md` su chiavetta o cloud ogni tanto. |
+
+## Problemi di apertura/verifica account (blocchi antifrode dei provider)
+
+I grandi provider bloccano o mettono "in revisione" gli account nuovi per prevenire frodi e spam. **Non è colpa tua e non sei sotto accusa:** capita a moltissimi account appena creati. Ecco i casi tipici:
+
+| Problema | Perché succede | Soluzione | Tempi |
+|---|---|---|---|
+| **Account Meta/Facebook disabilitato appena creato** | I sistemi antifrode di Meta sospettano degli account nuovi che fanno subito azioni "da inserzionista" (Business Manager, pagamenti) | NON creare un secondo account (peggiora tutto). Usa il link "Richiedi revisione" nell'avviso; carica il documento d'identità se richiesto. Nel frattempo: completa il profilo (foto, dati veri), naviga normalmente qualche giorno prima di riprovare con le inserzioni | Revisione: da poche ore a 3-5 giorni lavorativi |
+| **Google Ads chiede la "verifica dell'inserzionista"** | Google verifica l'identità di chi paga pubblicità (norma antifrode, prima o poi la chiede a tutti) | Segui il percorso in Google Ads → Fatturazione/Verifica: servono documento e dati aziendali (cartellina 00b). Le campagne possono continuare durante la verifica, ma non ignorare la scadenza indicata: oltre, le ads si fermano | Da pochi giorni a 2 settimane |
+| **Stripe: incassi ok ma "payout" (bonifici verso il tuo IBAN) bloccati** | Verifica identità/azienda (KYC) incompleta: manca un documento, l'IBAN, o un dato aziendale non coincide | Stripe → Impostazioni → dettagli attività: completa OGNI voce segnata in rosso (documento leggibile, P.IVA esatta come da visura, IBAN intestato all'azienda). I soldi non sono persi: restano in Stripe finché la verifica non passa | 1-3 giorni lavorativi dopo l'invio dei documenti |
+| **Brevo "account in revisione" / non puoi inviare** | Brevo controlla i nuovi mittenti per proteggere la reputazione dei suoi server (anti-spam) | Completa il profilo azienda al 100% (ragione sociale, indirizzo, sito web attivo); rispondi all'eventuale email del team Brevo spiegando che invii email transazionali/newsletter ai TUOI contatti con consenso. Non caricare liste comprate: è il motivo n°1 dei rifiuti | Da poche ore a 2-3 giorni |
+| **Supabase: progetto "in pausa" e la dashboard/landing non legge più i dati** | Sul piano gratuito Supabase mette in pausa i progetti dopo ~1 settimana senza attività (politica del piano free, non un guasto) | Entra su supabase.com → apri il progetto → clicca "Restore/Riattiva": torna su in qualche minuto con tutti i dati. Se ti capita spesso e il progetto è in produzione, valuta il piano a pagamento (~25$/mese alla data di stesura) che non va in pausa | Riattivazione: pochi minuti |
 
 ## Problemi email (cold, warmup, consegna)
 
@@ -59,6 +72,8 @@ Copia e incolla, sostituendo le parti tra parentesi. Claude ha tutti i manuali e
 Alcune cose (verifiche identità, problemi di account con provider esterni, situazioni fiscali) richiedono una mano umana. Non restare bloccato per giorni: chiedi supporto.
 - **Qualunque settore:** Francesco Kei Tudini — SD24 · WhatsApp: https://wa.me/393793594491
 
+**Fatto? Aggiorna la memoria:** in CLAUDE.md spunta questo manuale in "Stato Fase Operativa", aggiorna "Punto di ripresa" al prossimo passo, e annota gli asset creati (account, domini, URL) in "Asset operativi".
+
 ---
 
-**Collegamenti:** questo manuale copre i blocchi di tutti gli altri (M01-M17). Per il metodo e le sessioni, torna a `SKILL.md` e ai reference dei giorni.
+**Collegamenti:** questo manuale copre i blocchi di tutti gli altri (00b e M01-M23). Per le verifiche richieste da ogni servizio (documenti, telefono, KYC) vedi la tabella del manuale **00b**. Per il metodo e le sessioni, torna a `SKILL.md` e ai reference dei giorni.

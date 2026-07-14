@@ -4,7 +4,7 @@
 
 **Per il quiz-funnel leggi `references/metodo-ask.md` (sezione 3) PRIMA di scriverlo.** Riusa i **segmenti/bucket** del Giorno 2 (`output/02-segmenti-bucket.md`).
 
-**Deliverable:** `output/04-lead-magnet.md` · `output/04-optin-page.md` · `output/04-email-sequences.md` · `output/04-mappa-funnel.md` · `output/04-quiz-funnel.md` · `output/04-quiz-risultati-bucket.md` · `output/04-quiz-email-bucket.md`
+**Deliverable:** `output/04-lead-magnet.md` · `output/04-optin-page.md` · `output/04-email-sequences.md` · `output/04-mappa-funnel.md` · `output/04-quiz-funnel.md` · `output/04-quiz-risultati-bucket.md` · `output/04-quiz-email-bucket.md` · **file finiti:** `output/04-lead-magnet.pdf` (OBBLIGATORIO) · `output/04-optin-page.html`
 
 ---
 
@@ -39,15 +39,21 @@ Costruisci il **quiz-funnel** che acquisisce E segmenta il lead, in **aggiunta**
 1. `output/04-quiz-funnel.md`: gancio/titolo del quiz (curiosità+beneficio) · **fino a 10 domande** a scelta multipla (micro-impegni, linguaggio dalla Deep Dive) con la logica di punteggio/instradamento · scegli e dichiara **1 framework** tra Score / Type / Killer · punto di cattura email prima del risultato.
 2. `output/04-quiz-risultati-bucket.md`: **una pagina risultato per ogni bucket** del Giorno 2, con la **Promise Prescription X/Y/Z** ("nella tua situazione X, il vero ostacolo è Y, la cosa giusta ora è Z") + CTA verso l'offerta/lead magnet giusto per quel segmento.
 3. `output/04-quiz-email-bucket.md`: **una mini-sequenza email per bucket**, coerente con la sua pagina risultato, che porta a SLO/webinar/call.
-Strumenti (accenna, il montaggio è nella FASE OPERATIVA): ScoreApp/Bucket.io, Typeform, Jotform, Outgrow — o senza budget form condizionale + pagine risultato statiche.
+Montaggio (accenna, si fa nella FASE OPERATIVA): la strada standard è **Claude che genera e pubblica il quiz come pagina HTML** (domande + logica punteggio + pagine risultato) con la sezione Quiz-funnel del Manuale 15 — il cliente non monta nulla. I quiz builder a pagamento (ScoreApp/Bucket.io, Typeform, Jotform, Outgrow) restano un'alternativa solo se il cliente li preferisce.
 
 ## Blocco E — Mappa del Funnel
 Diagramma testuale + spiegazione di ogni passaggio e metrica da tracciare, con **entrambi i binari d'ingresso** (optin classico E quiz-funnel):
 `Traffico (ADV/Cold) → [Optin → Lead Magnet] oppure [Quiz-Funnel → Pagina risultato bucket] → Email (benvenuto / per bucket) → SLO → Sondaggio/Candidatura → Webinar → Offerta → 4DCM → Call 1:1`
 KPI minimi: costo/lead, conversione optin, **completamento quiz e conversione quiz→lead per bucket**, conversione SLO (target: ripaga l'ADV), show-up webinar, candidature, chiusure call.
 
+## Blocco F — Produzione file reali (leggi `references/produzione-file.md`)
+Il Giorno 4 non finisce coi sorgenti `.md`: qui nascono i primi file che il MERCATO tocca.
+1. **`output/04-lead-magnet.pdf` — OBBLIGATORIO.** È il file che il lead scarica davvero: senza, il funnel non esiste. Copertina con titolo+promessa, colori/logo/font dal brand brief (Giorno 3), impaginazione leggibile (titoli, spazi, niente muri di testo). Passa la checklist qualità di `produzione-file.md`. Se NESSUNO strumento di produzione è disponibile: dichiaralo al cliente e annota il **Debito di formato** (regola cardine in `produzione-file.md`).
+2. **`output/04-optin-page.html`:** anteprima brandizzata della pagina di cattura — i 9 punti del Blocco B già impaginati con colori e logo. Serve al cliente per VEDERE la sua pagina (non solo leggerne il copy) ed è pronta da mettere online col Manuale 15.
+Il quiz-funnel diventa anch'esso pagina HTML con la sezione Quiz-funnel del Manuale 15 (lo monta Claude, non il cliente): qui basta il sorgente `.md` approvato.
+
 ## Chiusura Giorno 4
-Salva i 4 file, aggiorna stato. Anticipa il Giorno 5: "Domani costruiamo il pezzo forte: la presentazione che vende per te."
+Salva tutti i file (i 7 sorgenti `.md` + `04-lead-magnet.pdf` + `04-optin-page.html`), aggiorna stato. Anticipa il Giorno 5: "Domani costruiamo il pezzo forte: la presentazione che vende per te."
 
 
 ---
@@ -60,4 +66,6 @@ Salva i 4 file, aggiorna stato. Anticipa il Giorno 5: "Domani costruiamo il pezz
 - [ ] **Quiz-funnel ASK** scritto (`output/04-quiz-funnel.md`): gancio + ≤10 domande + framework dichiarato
 - [ ] **Pagine risultato per bucket** (`output/04-quiz-risultati-bucket.md`): una per segmento, con Promise Prescription X/Y/Z
 - [ ] **Email per bucket** (`output/04-quiz-email-bucket.md`): una mini-sequenza per segmento
+- [ ] **`output/04-lead-magnet.pdf` prodotto (OBBLIGATORIO):** copertina + brand del Giorno 3, checklist qualità superata (fallback .md solo se strumenti assenti, dichiarato come Debito di formato)
+- [ ] **`output/04-optin-page.html` prodotta:** anteprima brandizzata dei 9 punti, pronta per il Manuale 15
 - [ ] `CLAUDE.md` e stato aggiornati

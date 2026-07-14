@@ -46,6 +46,8 @@ e segui le istruzioni del file CLAUDE.md: parti subito con la prima domanda.
 
 ## Non solo i materiali: anche la messa in pratica
 
+E il percorso non finisce coi documenti, né coi collegamenti tecnici: **l'AI ti accompagna fino al tuo primo cliente pagante** — il primo contatto, la prima risposta (ti prepara lei cosa scrivere), la prima chiamata (ti ci allena facendo la parte del cliente), il primo incasso. Il lavoro è finito quando entra il primo euro, non prima.
+
 Dentro ci sono i **manuali operativi passo-passo** per far girare tutto davvero, guidato dall'AI schermata per schermata:
 domini per l'email a freddo (Cloudflare) · caselle email (Migadu) · riscaldamento e invii (Instantly) · email automatiche (Brevo) · inoltro alla tua mail principale · WhatsApp (con le regole per non farsi bloccare) · pubblicazione automatica su Instagram e Facebook · database dei contatti (Supabase) · una dashboard con tutti i numeri · i collegamenti giusti tra l'AI e i tuoi strumenti.
 

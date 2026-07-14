@@ -2,7 +2,7 @@
 
 **Obiettivo:** OMT definitiva + SLO (offerta d'ingresso auto-liquidante) + offer stack in 12 punti + messaggio/brand definitivi.
 
-**Deliverable:** `output/03-offerta-omt.md` · `output/03-slo.md` · `output/03-brand-brief.md`
+**Deliverable:** `output/03-offerta-omt.md` · `output/03-slo.md` · `output/03-brand-brief.md` · **file finito:** `output/03-brand-brief.pdf` (o .docx)
 
 ---
 
@@ -31,6 +31,14 @@ Leggi `references/framework-offerta-12-punti.md` e pre-compila lo stack che verr
 ## Blocco D — Brand Brief
 Genera `output/03-brand-brief.md` (usa `assets/brand-brief.md`): positioning statement, formula CHI/COSA/COME, meccanismo unico nominato, tagline (3 opzioni), tono di voce (3 aggettivi + esempi sì/no), messaggi chiave per canale, palette e mood suggeriti (a parole: 2-3 direzioni), angoli di comunicazione principali (storia · caso di studio · educativo).
 
+**Raccogli QUI i materiali di brand REALI** — sono l'input di TUTTI i file finiti dei Giorni 4-6 (lead magnet PDF, optin page, deck, brochure), quindi senza di loro quei file escono anonimi:
+- **Colori:** i codici esatti se li ha (dal sito o da chi gli ha fatto il logo); altrimenti proponi tu 2-3 palette coerenti col settore e fagliene scegliere UNA — quella diventa ufficiale.
+- **Logo:** fattelo **caricare in chat** (o indicare dove sta: sito, file sul computer — guidalo tu a trovarlo). Salvalo in `output/assets/` (es. `output/assets/logo.png`). Se non ha un logo, annotalo: si va di palette + nome in un font pulito.
+- **Font:** quello che usa già, o proponi una coppia titoli/testo semplice.
+Annota colori/logo/font scelti in `CLAUDE.md` → Regole di brand.
+
+**Chiudi con il file finito:** produci `output/03-brand-brief.pdf` (o `.docx`) seguendo `references/produzione-file.md` (regola cardine + checklist qualità). È il primo file "vero" che il cliente si trova in mano: curalo, dà il tono a tutto il resto.
+
 ## Chiusura Giorno 3
 Salva i 3 file, aggiorna stato. Anticipa il Giorno 4: "Domani costruiamo la macchina: pagina di cattura, regalo e tutte le email che lavorano mentre dormi."
 
@@ -42,4 +50,6 @@ Salva i 3 file, aggiorna stato. Anticipa il Giorno 4: "Domani costruiamo la macc
 - [ ] **SLO d'ingresso** definita (nome, lista COSA, 3+1 bonus, prezzo ancorato, garanzia)
 - [ ] Offer stack 12 punti pre-compilato (valore ≥10× prezzo, "però" con motivo vero)
 - [ ] Brand brief completo (`output/03-brand-brief.md`): tagline, tono, angoli
-- [ ] `CLAUDE.md` aggiornato con offerta, prezzi e regole di brand definitive
+- [ ] **Materiali brand REALI raccolti:** colori esatti (o palette scelta), font, logo caricato e salvato in `output/assets/`
+- [ ] **File finito prodotto:** `output/03-brand-brief.pdf` (o .docx) via `produzione-file.md` (fallback .md solo se strumenti assenti, dichiarato come Debito di formato)
+- [ ] `CLAUDE.md` aggiornato con offerta, prezzi e regole di brand definitive (colori/logo/font inclusi)
